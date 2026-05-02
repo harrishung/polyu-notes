@@ -1,0 +1,705 @@
+=== AF4322 LECTURE 2: INTRODUCTION TO BANKING & FINANCIAL SERVICES II ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+Covers: Chapter 2 (Organization & Structure of Banking; Establishing New Banks)
+
+
+=== LEARNING OBJECTIVES (PART 1) ===
+- Examine the organization and structure of the U.S. banking industry
+- Explore organizational structures (unit banking, branching, holding companies)
+- Analyze factors driving mergers and acquisitions in banking
+- Understand economies of scale and economies of scope
+- Consider the goals of financial firms and their impact on efficiency
+
+
+=== INTRODUCTION ===
+- Organizational forms of financial institutions have evolved significantly over time
+- An institution's performance and structure are determined by more than just role and size
+- Bankers and managers of competing financial institutions have evolved into different organizational forms
+- The causes have dramatically changed the structure, size, and types of organizations dominating the financial-services industry today
+
+
+=== BANKING INDUSTRY: HIGHLY CONCENTRATED ===
+
+Comparison: US vs China (Mainland) vs Hong Kong
+
+US:
+- Total Institutions: ~4,587 FDIC-insured banks
+- Top 4 Banks: JPMorgan Chase, Bank of America, Citigroup, Wells Fargo
+- Top 4 Share: ~27% of domestic banking assets (Top 10 banks ~50%)
+- Top 10 Share: ~55% of industry assets
+- Core Trend: Market-driven consolidation
+- Defining Feature: Private ownership, high top-tier concentration
+
+China (Mainland):
+- Total Institutions: ~4,000 banking entities
+- Top 4 Banks: ICBC, China Construction Bank (CCB), Agricultural Bank of China (ABC), Bank of China (BOC)
+- Top 4 Share: ~35-40% of commercial banking assets
+- Top 10 Share: ~60% of total assets
+- Core Trend: State-guided mergers for stability
+- Defining Feature: State-owned giants, fragmented grassroots
+
+Hong Kong:
+- Total Institutions: 156 licensed banks
+- Top 4 Banks: HSBC, Bank of China (Hong Kong), Hang Seng Bank, Standard Chartered Bank (HK)
+- Top 4 Share: >60% of locally incorporated bank assets
+- Top 10 Share: >80% of locally incorporated bank assets
+- Core Trend: Stable as international hub
+- Defining Feature: Mix of dominant local champions & international branch networks
+
+
+=== US COMMERCIAL BANKING STRUCTURE (Dec 31, 2009) ===
+
+Assets Held by FDIC-Insured Commercial Banks (Total: $11,843 Billion):
+- Largest banks: $10,591 billion (89.43%)
+- Medium-size banks: $1,112 billion (9.39%)
+- Smallest banks: $141 billion (1.19%)
+
+Number of Banks (Total: 6,839 in 2009):
+- Largest banks: 514 (7.52%)
+- Medium-size banks: 3,799 (55.55%)
+- Smallest banks: 2,526 (36.94%)
+
+Size definitions:
+- Smallest: total assets up to $100 million
+- Medium: $100 million to $1 billion
+- Largest: $1 billion or more
+
+
+=== TYPES OF BANKS ===
+
+1. MONEY CENTER BANKS
+   Definition: Large banks in major financial centers (NY, Chicago, San Francisco)
+   Examples: JPMorgan Chase ($3.7T assets), Bank of America ($3.1T), Citigroup ($2.4T)
+   Characteristics:
+   - Vast balance sheets, trillions in assets
+   - Complex, diversified operations
+   - Significant influence on global financial system
+   - Heavy involvement in capital markets, derivatives trading, M&A
+   - Often "too big to fail" — strictest regulatory oversight
+
+2. REGIONAL BANKS (US)
+   Definition: Large banks serving multiple states but not nationwide; significant presence in particular region
+   Examples: U.S. Bancorp ($600B), Truist Financial ($535B), PNC Financial ($600B)
+   Characteristics:
+   - Hundreds of billions in assets, multi-state operations, mix of retail and commercial
+   - Strong regional market share
+   - Some investment banking services, regional market expertise
+   - Important role in regional economies
+
+3. COMMUNITY BANKS
+   Definition: Smaller banks serving local communities
+   Examples: First National Bank of Smallville — $2B assets, 25 branches in 3 counties
+   - Specialize in agricultural and small business lending
+   - Declining: 14,000 banks (1980) → 4,700 banks (2024)
+   Characteristics:
+   - $100M-$10B in assets, 1-50 branches, relationship banking
+   - Deep understanding of local market conditions
+   - Strong customer relationships, personalized service
+   Key competitive advantages:
+   - Local decision-making
+   - Flexibility in lending
+   - Relationship-based banking
+
+
+=== THE DUAL BANKING SYSTEM IN THE US ===
+- Banks chartered at federal OR state level
+- Federal charter: Office of the Comptroller of the Currency (OCC)
+- State charter: State banking agency
+- Creates dynamic regulatory environment
+- Banks choose charter based on business model and strategic objectives
+- Regulatory arbitrage: banks may switch charters to optimize regulation
+
+
+=== ORGANIZATIONAL STRUCTURES ===
+
+--- UNIT BANKS ---
+Definition: Bank operates from one location only
+Historical: Most common before 1970s, now <5% of US banks
+Advantages:
+- Simple to manage, clear decision-making, low overhead, local focus
+Disadvantages:
+- Cannot achieve economies of scale, vulnerable to local downturns
+Why disappeared: Technology costs too high, customers want multiple branches
+
+
+--- BRANCHING ---
+Definition: Bank operates multiple branches under one charter
+Branch = separate banking office offering deposit and lending services
+
+US Historical Evolution (branches per bank):
+- 1934: 0.21
+- 1970: 5.2
+- 2010: 12.48 (peak, after Riegle-Neal 1994)
+- 2024: 10.2 (digital banking reducing branch need)
+
+How it works: Single charter, multiple locations, centralized management
+Advantages: Economies of scale, wider geographic reach, better diversification
+Example: Bank of America — 3,800 branches nationwide, serves 70+ million customers (2023 Annual Report)
+
+Branching Organizations:
+- Unit firm grows → establishes branching organization
+- Full range of services from several locations: head office + full-service branches
+- Limited services through:
+  • Drive-in windows
+  • ATMs
+  • Networked computers
+  • Point-of-sale (POS) terminals
+  • Internet
+  • Other communications systems
+- Senior management at home office; branches have own management with limited authority
+
+Branching Expansion History:
+- 1930s Great Depression: only 1 in 5 American banks had a branch office
+- Early 21st century: average US bank had ~12 full-service branches
+- Riegle-Neal Interstate Banking and Branching Efficiency Act (1994) enabled expansion
+- Population exodus to suburbs contributed
+- Recent years: branch expansion has slowed
+
+US Banking Entry/Exit (selected years):
+| Year | New Charters | M&A | Failures |
+|------|-------------|-----|----------|
+| 1980 | 205         | 126 | 10       |
+| 1990 | 165         | 389 | 158      |
+| 2000 | 190         | 452 | 6        |
+| 2010 | 11          | 197 | 157      |
+| 2020 | 4           | 117 | 4        |
+
+US Branch Office Growth (Table 3-2 highlights):
+| Year | Home Offices | Branch Offices | Total Offices | Avg Branches/Bank |
+|------|-------------|----------------|---------------|-------------------|
+| 1934 | 14,146      | 2,985          | 17,131        | 0.21              |
+| 1970 | 13,511      | 21,810         | 35,321        | 1.61              |
+| 1988 | 13,137      | 46,619         | 59,756        | 2.55              |
+| 1999 | 8,551       | 63,684         | 72,265        | 6.45              |
+| 2005 | 7,527       | 72,775         | 79,802        | 9.67              |
+| 2009 | 6,808       | 81,276         | 88,174        | 11.78             |
+| 2010 | 6,503       | 81,184         | 87,687        | 12.48             |
+
+
+--- FINANCIAL HOLDING COMPANY (FHC) ---
+Definition: A US holding company that can own banks AND non-banking financial companies
+
+Legal basis: Gramm-Leach-Bliley Act (1999) = Financial Services Modernization Act
+- Repealed parts of Glass-Steagall Act
+- Allowed affiliations among banks, securities firms, insurance companies under one holding structure
+
+Requirements to become FHC:
+1. Bank subsidiaries must be well-capitalized
+2. Bank subsidiaries must be well-managed
+3. Satisfactory CRA rating
+
+Subsidiaries can include:
+Banks, insurance companies, investment banks, securities firms, mutual funds, asset management
+
+- Integrated model captures synergies and cross-selling opportunities
+- Complexity creates management and regulatory challenges
+Example: JPMorgan Chase owns JPMorgan Bank, JPMorgan Securities, JPMorgan Asset Management, Chase Insurance (not a major insurance subsidiary)
+
+FHC Advantages vs Disadvantages:
+| Advantages | Disadvantages |
+|-----------|---------------|
+| 1. Activity & Geographic Freedom: broad services, national/regional reach | 1. Community Harm: drains capital from local markets, harms small businesses |
+| 2. Financial Synergies: economies of scope (cross-selling) and scale; efficient capital allocation | 2. Systemic Risk: creates "too big to fail" institutions threatening financial stability |
+| 3. Risk Management: diversified revenue, lower bank failure rates | 3. Complexity & Conflicts: regulatory arbitrage, bureaucratic inefficiency, conflicts of interest |
+
+In essence: FHC is the primary vehicle for creating large, complex financial institutions dominating the US economy. Diversification/scope advantages come bundled with trade-offs in community impact, systemic risk, and regulatory challenge.
+
+
+--- GLOBAL COMPARISON: UNIVERSAL BANKING HOLDING COMPANIES ---
+In many countries, financial holding companies / universal banks own both banking and non-banking subsidiaries.
+
+European Union:
+- EU Banking Directives + Markets in Financial Instruments Directive (MiFID) allow universal banking
+- Reforms in 1980s/1990s enabled banks to own insurance, securities, asset management firms
+- Example: BNP Paribas (France)
+
+United Kingdom:
+- Financial Services and Markets Act 2000 (FSMA) allows financial conglomerates across banking, insurance, investment
+- Example: HSBC Holdings plc (UK)
+
+
+=== INTERNAL ORGANIZATION OF THE BANKING FIRM ===
+
+Differences in size lead to marked differences in internal organization and services offered.
+
+How is a bank organized internally to achieve its goals?
+- Includes management structure, decision-making, functional divisions
+- Reflects bank's strategy and competitive positioning
+- Determines operating efficiency
+Key insight: Different organizational structures lead to different competitive strategies
+
+
+--- COMMUNITY BANKS / COMMUNITY-ORIENTED FIRMS ---
+- Devoted to smaller, locally-based deposits and loans (a.k.a. retail banks)
+- Sharp contrast to wholesale banks
+- Close contact between top management, division management, staff
+- Significantly impacted by local economy and new regulations
+- Losing ground in numbers and industry shares
+
+Community Bank Decline:
+- 1985: ~14,000 (Fed Reserve Bank of St. Louis 2013)
+- 2010: ~6,000 (Fed Reserve Bank of St. Louis 2013)
+- 2023: 4,001 (FDIC Quarterly Banking Profile Q4 2023)
+
+Smaller Community Bank Org Chart features:
+- Structure: Simple, flat hierarchy
+- Management: CEO, CFO, Chief Lending Officer, branch managers; close mgmt-staff contact
+- Decision-Making: Centralized, quick, responsive to local needs
+- Strategy: Relationship-based, local market focus, personalized service
+- Strengths: Flexibility, local knowledge, strong customer relationships
+- Weakness: Limited specialization
+
+Typical divisions: Lending Division (Commercial Loan Officers, Consumer Loan Officers, Compliance), Accounting and Operations, Fund-Raising and Marketing (Tellers, New Accounts, Advertising), Trust Division (Personal Trusts, Business Trusts, Safekeeping)
+
+
+--- LARGER BANKS (Money Center, Wholesale, Retail) ---
+- Located in large city, focus on wholesale or wholesale + retail
+- Many use profit-centered / performance approach
+- Each major dept maximizes contribution to profitability or another performance indicator
+
+Advantages over community-oriented institutions:
+- Global reach
+- Better diversified — geographically and by product line
+- Withstand fluctuating economy better
+- Raise huge financial capital at low cost
+- Attract top managerial talent
+
+Org Structure:
+- Board of Directors
+- CEO / Executive Management
+- Major divisions:
+  • Retail Banking
+  • Commercial Banking
+  • Investment Banking
+  • Wealth Management
+  • Risk Management
+  • Technology/Operations
+- Global operations with regional management
+
+Money Center / Wholesale Bank Org Chart features:
+- Administrative Services Group (Senior Executive Committee, Board Chairman, President/CEO, SVPs)
+- Fund Raising and Funds Management Division (Investments and Funding Group, Portfolio Mgmt and Money-Market Desk, Institutional Banking Dept, Capital Markets Dept, Asset/Liability Mgmt, Planning and Risk Control)
+- International Banking Dept (Global Finance Foreign Offices Group)
+- Funds-Allocation Division (Commercial Financial Services Group, Commercial Credit, Commercial Real Estate, Corporate Services, Credit and Debit Cards, Loan Review Group, Loan Workout Group)
+- Operations Department (Auditing and Control, Branch Office Mgmt, Computer Systems, HR, Teller Dept, Securities Dept, Regulatory Compliance Group)
+- Personal Financial Services Division (Private Banking Services, Trust Services, Residential Lending, Customer Services, Safe Deposit, Motor/ATM/Electronic Banking, Marketing)
+
+
+--- ORGANIZATIONAL CHART COMPARISON ---
+| Feature | Community Banks | Large Banks |
+|---------|----------------|-------------|
+| Structure | Simple, easy to understand, clear lines of authority | Complex, many subsidiaries and divisions |
+| Focus | Core banking functions (deposits, loans) | Diversified business lines (retail, commercial, investment, wealth) |
+
+Key difference: Complexity reflects strategic choices about market scope
+
+
+=== ARRAY OF ORGANIZATIONAL STRUCTURES ===
+Confusing terminology — different types include:
+- Insured banks
+- State chartered banks
+- National banks
+- Member banks
+
+
+=== ELECTRONIC BRANCHING ===
+Alternative or supplement to traditional branches:
+- Electronic branches
+- Internet banking services
+- Automated teller machines (ATMs)
+- Point-of-sale (POS) terminals
+- Personal computers
+- Call-center systems
+- Virtual banks
+
+System architecture: ATMs/POS terminals → Central Processing Unit (account verification) → Network Switching Equipment Center → Routes transactions to correct depository institution → Bank computers credit/debit accounts
+
+
+=== BANK MERGERS & ACQUISITIONS ===
+
+Reshaping the Financial-Services Sector:
+- Branching, BHCs, and FHCs growth fueled by multiple factors
+- M&A is another powerful force
+- Bigger companies pursue smaller financial-service providers, buy assets in great numbers
+- Since 1980: more than 12,000 bank mergers in the US
+
+Advantages of M&A:
+1. Economies of Scale: spread fixed costs (IT, compliance) over more customers
+2. Economies of Scope: cross-sell services, increase customer lifetime value
+3. Geographic Expansion: enter new markets, increase market share, diversify risk
+4. Acquire Expertise: gain skilled management, customer relationships, technology
+5. Regulatory Requirements: forced mergers to prevent failures during crises
+
+
+=== EFFICIENCY AND SIZE OF FINANCIAL FIRMS ===
+
+Do Bigger Financial Firms Operate at Lower Cost?
+- Two possible sources of cost savings:
+  • Economies of scale
+  • Economies of scope
+- Evidence: at least moderate economies of scale in banking
+- Most studies find weak/no evidence for economies of scope
+- Nonbank financial firms show similar conclusions
+
+ECONOMIES OF SCALE:
+Definition: Average cost of production falls as output increases
+Formula: Average Cost = Total Cost / Number of Units
+- Fixed Costs: IT systems, compliance infrastructure, executive management, cybersecurity
+- Variable Costs: Teller salaries, customer service, marketing, deposit insurance
+Key insight: Larger banks spread fixed costs over more customers, reducing per-unit cost
+
+Examples:
+
+(a) Marketing/Customer Acquisition (National TV ad campaign cost $50M):
+- Small Bank ($2B assets, 100K customers): $50M / 100K = $500/customer — prohibitive
+- Large Bank ($200B assets, 50M customers): $50M / 50M = $1/customer — affordable
+- Real example: BofA Super Bowl ads ($7M for 30 seconds) vs community bank local ads
+
+(b) IT Infrastructure (new core banking system = $1B investment):
+- Bank A ($10B assets): 0.01% of assets — huge burden, 1% of profits
+- Bank B ($100B assets): 0.001% of assets — manageable
+- Bank C ($1T assets): 0.0001% of assets — barely noticeable
+
+(c) Regulatory Compliance:
+- Small Bank ($2B assets): 15 staff × $100K = $1.5M/yr (0.075% of assets)
+- Large Bank ($200B assets): 500 staff × $100K = $50M/yr (0.025% of assets)
+- Result: Large bank's compliance cost is 1/3 per dollar of assets
+- Why: Regulatory requirements largely fixed regardless of size
+- Impact: Small banks pay 3x more per dollar of assets — significant disadvantage
+
+MOST EFFICIENT SIZES (U-shaped cost curve):
+- Costs fall as size increases (economies of scale)
+- Costs may rise at very large sizes (diseconomies)
+- Optimal size varies by business model and market
+- Estimated lowest-cost bank size range: starts around $200M assets, extends through billions
+
+
+=== FINANCIAL FIRM GOALS: IMPACT ON COST, EFFICIENCY, PERFORMANCE ===
+
+EXPENSE-PREFERENCE BEHAVIOR:
+- When mgmt prioritizes manager benefits over stockholders or public
+- Opposite of cost control and efficiency
+
+AGENCY THEORY:
+- Analyzes relationships between owners (stockholders) and managers (legally agents for owners)
+- Explores mechanisms to compel managers to maximize owner welfare
+
+KEY POINT: Lower agency costs and better company performance depend on effectiveness of CORPORATE GOVERNANCE
+
+
+===========================================================
+=== PART 2: ESTABLISHING NEW BANKS AND FINANCIAL SERVICES FACILITIES ===
+===========================================================
+
+LEARNING OBJECTIVES (PART 2):
+- Understand goals of financial firms in facility decisions
+- Learn process of chartering new financial institutions
+- Analyze the decision to establish branch offices
+- Explore branchless banking and limited-service facilities
+- Consider the future of financial service delivery
+
+
+=== GOALS OF FINANCIAL FIRM ===
+- Facilities established for customer convenience
+- Historically convenience meant location
+- Customer views of "convenient" changing rapidly due to technology
+Three main options to respond to changing demands:
+1. Chartering new (de novo) financial institutions
+2. Establishing new full-service branch offices
+3. Setting up limited-service facilities
+
+
+=== CHARTERING A NEW (DE NOVO) FINANCIAL-SERVICE INSTITUTION ===
+
+Authority:
+- Federal charter: Office of the Comptroller of the Currency (OCC)
+- State charter: State banking commission
+
+Federal charter characteristics:
+- More rigorous standards
+- Greater prestige
+- Uniform national regulation
+
+State charter characteristics:
+- May be easier to obtain
+- Lower costs
+- More flexibility in some areas
+
+Why government scrutiny is heightened:
+1. They hold the public's savings
+2. They are at the heart of the payments process — failure could disrupt commerce
+3. They have ability to create money (through credit) — too many charters could destabilize
+
+
+--- BANK CHARTERING PROCESS IN THE US ---
+- Only state banking commissions (50 states) and OCC can issue charters of incorporation
+- Federal standards generally more rigorous than state rules
+- Organizers often seek federal charter for added prestige (especially for large depositors)
+- Choice between federal or state = weighing benefits and costs for that bank
+
+Benefits of Federal (National) Charter:
+- Added prestige due to stricter regulatory standards (may attract larger deposits)
+- Higher quality technical assistance from national authorities in trouble (better survival)
+- Federal rules can pre-empt state laws
+
+Benefits of State Charter:
+- Easier and less costly to secure; lower supervisory fees
+- Need not join Federal Reserve System
+- Some states allow higher % of capital lent to single borrower
+- May offer some services national banks cannot
+
+
+--- QUESTIONS REGULATORS ASK NEW (DE NOVO) BANK ORGANIZERS ---
+1. Population and geographic boundaries of the Primary Service Area (PSA)?
+2. Number of competing banks/credit unions/finance companies in PSA — services, hours, distances?
+3. Number, types, sizes of businesses in the area?
+4. Traffic patterns, road adequacy, geographic barriers?
+5. Population growth, incomes, occupations, education, age distribution in proposed PSA?
+6. Financial history of the community, frequency/track record of new financial firms there?
+7. Who owns stock issued? Amount held by organizers, directors, officers?
+8. How experienced are organizers, management, board of directors?
+9. Projections for deposits, loans, revenues, operating expenses, net income for first few years?
+
+
+--- FACTORS WEIGHING ON THE DECISION TO SEEK A NEW CHARTER ---
+
+External factors:
+a. Level and growth of economic activity
+b. Need for a new financial firm
+c. Strength and character of competition
+
+Internal factors:
+a. Qualifications and contacts of organizers
+b. Management quality
+c. Pledging capital to cover charter application costs and startup
+
+
+=== ESTABLISHING FULL-SERVICE BRANCH OFFICES ===
+
+When/Why:
+- Established institution wants to enter new markets, OR valued customers move
+- Branches usually MUCH cheaper than chartering new firms
+- US branching leader: Bank of America (>6,000 US offices)
+- Location, design, services depend on customer + management/employee preferences
+
+Desirable site characteristics for full-service branches:
+1. Heavy traffic count
+2. Large numbers of retail stores
+3. Above-average age population
+4. Substantial business owners, managers, professionals nearby
+5. Steady or declining number of competitor facilities
+6. Above-average population growth
+7. Above-average population density
+8. Relatively high target ratio of population per branch
+9. Above-average household income
+
+
+--- TARGET RATIO FORMULA (Eq. 4-1) ---
+Population per branch office = Total population in area to be served / Number of branch offices in area
+
+Larger population per office → more services purchased → more revenue, better operating efficiency
+
+
+--- BRANCH AS CAPITAL BUDGETING DECISION ---
+
+Cash outflow to fund a new branch (Eq. 4-2):
+Cash outflow = NCF₁/(1+E(r))¹ + NCF₂/(1+E(r))² + ... + NCFₙ/(1+E(r))ⁿ
+
+where:
+- NCFₜ = Net Cash Flow in period t
+- E(r) = expected return / discount rate
+- n = number of periods
+
+Other considerations:
+a. Variance around expected return (mainly local economic conditions)
+b. Covariance of expected returns from new branch, existing branches, and other assets
+
+
+--- IMPACT ON INSTITUTION TOTAL RETURN (Eq. 4-3) ---
+E(R_T) = W × E(R_B) + (1 − W) × E(R_OA)
+
+where:
+- R_T = total return
+- R_B = expected return from new branch
+- R_OA = expected return from other assets
+- W = proportion of total resources invested in new branch B
+- (1 − W) = proportion in all other assets
+
+
+--- IMPACT ON OVERALL RISK (VARIANCE OF TOTAL RETURN) (Eq. 4-4) ---
+σ²(R_T) = W²σ²(R_B) + (1 − W)²σ²(R_OA) + 2W(1 − W)·COV(R_B, R_OA)
+
+Covariance (Eq. 4-5):
+COV(R_B, R_OA) = ρ_B,OA × σ_B × σ_OA
+
+where:
+- ρ_B,OA = correlation coefficient between new branch return and other-asset returns
+- σ_B = standard deviation of branch return
+- σ_OA = standard deviation of other-asset returns
+
+KEY INSIGHT: Geographic diversification can reduce overall risk exposure
+
+
+--- BRANCH CLOSURE REGULATION ---
+Recent regulation made closing US depository branches harder:
+- FDIC Improvement Act of 1991
+- Community Reinvestment Act of 1977
+
+Branch role evolution today:
+- Sales orientation
+- Cross-selling
+- Less viewed as deposit gatherers, more as fee-generating sales / profitable asset booking
+
+
+--- IN-STORE BRANCHING ---
+- Located inside supermarkets, shopping centers, retail establishments
+- Few employees, highly sales-oriented
+- Much cheaper to build and maintain
+- Become profitable ~12 months earlier than stand-alone facilities
+- Operate longer hours
+- Higher traffic flow than conventional branches
+
+
+=== AUTOMATED LIMITED-SERVICE FACILITIES ("BRANCHLESS BANKING") ===
+Spike due to high cost of chartering new firms and full-service branches:
+- Point-of-sale (POS) terminals
+- Automated teller machines (ATMs)
+- Telephone banking
+- Internet-supplied services
+
+
+=== BANKING IN HOMES, OFFICES, STORES, ON THE STREET ===
+
+TELEPHONE BANKING & CALL CENTERS:
+- Telephone remains among most popular customer-contact channels
+
+INTERNET BANKING — features include:
+- Verify account balances in real time, anytime, anywhere
+- Move funds instantly between accounts
+- Confirm deposits received, checks cleared, online transactions completed
+- View and print images of cleared checks
+- Submit applications for loans and credit cards
+- Online bill paying
+
+
+=== FINANCIAL-SERVICE FACILITIES OF THE FUTURE ===
+- Despite advancing tech, total financial-service outlets unlikely to decline significantly soon
+- "Digital cash" will let customers be their own branches for some transactions
+- Service providers will evaluate branches/limited-service facilities by profits and costs per square foot
+- Outsourcing of financial service delivery likely to grow
+
+
+=== SUPPLEMENTARY INFORMATION ===
+
+--- DETAILED ENTRY/EXIT TABLE (TABLE 3-1) ---
+Year | New Charters | Failures | M&A | Branches Opened | Branches Closed
+1980 | 205 | 10  | 126 | 2,397 | 287
+1981 | 198 | 7   | 210 | 2,326 | 364
+1982 | 317 | 32  | 256 | 1,666 | 443
+1983 | 361 | 45  | 314 | 1,320 | 567
+1984 | 391 | 78  | 330 | 1,405 | 889
+1985 | 328 | 115 | 331 | 1,480 | 617
+1986 | 253 | 141 | 340 | 1,387 | 763
+1987 | 217 | 187 | 539 | 1,117 | 960
+1988 | 229 | 206 | 601 | 1,676 | 1,082
+1989 | 193 | 205 | 413 | 1,825 | 758
+1990 | 165 | 158 | 389 | 2,987 | 926
+1991 | 105 | 105 | 443 | 2,788 | 1,456
+1992 | 72  | 98  | 425 | 1,677 | 1,313
+1993 | 58  | 42  | 501 | 1,499 | 1,215
+1994 | 50  | 11  | 548 | 2,461 | 1,146
+1995 | 102 | 6   | 517 | 2,367 | 1,319
+1996 | 145 | 5   | 552 | 2,487 | 1,870
+1997 | 187 | 1   | 598 | NA    | NA
+1998 | 189 | 3   | 557 | 1,436 | NA
+1999 | 230 | 7   | 417 | 1,450 | 1,158
+2000 | 190 | 6   | 452 | 1,286 | NA
+2001 | 126 | 3   | 354 | 1,010 | NA
+2002 | 91  | 10  | 277 | 1,285 | 1,137
+2003 | 110 | 2   | 225 | 1,465 | 649
+2004 | 122 | 3   | 261 | 2,078 | 666
+2005 | 167 | 0   | 269 | 2,427 | 1,632
+2006 | 187 | 0   | 229 | 3,981 | 1,832
+2007 | 173 | 3   | 321 | 3,346 | 3,275
+2008 | 98  | 25  | 293 | 3,021 | 2,848
+2009 | 31  | 140 | 179 | 1,998 | 1,613
+2010 | 11  | 157 | 197 | 1,508 | 1,877
+
+
+--- HOLDING COMPANY ORGANIZATIONS ---
+Bank holding company = corporation chartered to hold stock of at least one bank, often plus other businesses.
+
+Reasons for rapid upsurge:
+- Access to capital markets for raising funds
+- Ability to use higher leverage
+- Tax advantages
+- Ability to expand into businesses outside banking
+
+
+--- 10 LARGEST BANK HOLDING COMPANIES IN US (June 30, 2010) ---
+1. Bank of America Corporation — Charlotte, NC — $2,366B
+2. JP Morgan Chase & Co. — NYC — $2,014B
+3. Citigroup, Inc. — NYC — $1,938B
+4. Wells Fargo & Company — San Francisco — $1,226B
+5. Goldman Sachs Group — NYC — $884B
+6. Morgan Stanley — NYC — $809B
+7. MetLife Inc. — NYC — $574B
+8. Barclays Group US Inc. — Wilmington, DE — $356B
+9. Taunus Corporation — NYC — $349B
+10. HSBC North America Holdings Inc. — NYC — $334B
+
+
+--- NONBANK BUSINESSES HOLDING COMPANIES CAN ACQUIRE (US REGS) ---
+- Finance Companies (lend to businesses and households)
+- Mortgage Companies (short-term real property credit)
+- Data Processing Companies
+- Factoring Companies (purchase accounts receivable)
+- Security Brokerage Firms
+- Financial Advising
+- Credit Insurance Underwriters
+- Merchant Banking (corporate stock investment, financing new ventures)
+- Investment Banking Firms (underwrite government, municipal, corporate securities)
+- Trust Companies
+- Credit Card Companies
+- Leasing Companies
+- Insurance Companies and Agencies
+- Real Estate Services
+- Savings Associations
+
+
+--- FINANCIAL HOLDING COMPANIES (FHCs) under GLB ---
+Under Gramm-Leach-Bliley (GLB) Act:
+- FHCs = special holding company offering broadest range of financial services
+- Includes dealing in/underwriting securities and selling/underwriting insurance
+
+In an FHC, each affiliated firm has its own:
+- Capital
+- Management
+- Profits/losses separate from other affiliates
+- Some protection against company-wide losses
+
+Led to consolidation and convergence within the industry.
+
+Possible affiliated firms within an FHC:
+- Insurance Agencies (selling policies and insurance underwriting)
+- Commercial Bank or Banks
+- Security purchases/sales and Investment Banking (underwriting)
+- Merchant Bank
+- Travel Agencies and Other Affiliates
+- Real Estate Development Company
+
+
+--- LEADING FHCs REGISTERED WITH FED ---
+- Allianz SE (Munich, Germany)
+- Bank of America Corp (Charlotte, NC)
+- Barclays PLC (London, England)
+- Citigroup, Inc. (NYC)
+- Credit Suisse Group (Zurich, Switzerland)
+- HSBC Holdings PLC (London, England)
+- JP Morgan Chase & Co. (NYC)
+- MetLife, Inc. (NYC)
+- Rabobank Nederland (Utrecht, Netherlands)
+- Royal Bank of Canada (Montreal, Canada)
+
+
+=== END OF LECTURE 2 / CHAPTER 2 ===

@@ -1,0 +1,537 @@
+=== AF4322 LECTURE 1: INTRODUCTION TO BANKING & FINANCIAL SERVICES I ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+Covers: Chapter 1 & Chapter 2
+
+=== KEY TOPICS ===
+- Powerful Forces Reshaping the Financial Industry
+- What is a Bank?
+- Banking Regulation and History
+- Central Banking and Monetary Policy
+- Financial System Dynamics
+Key Focus: Understanding how financial institutions operate
+
+
+=== POWERFUL FORCES RESHAPING THE FINANCIAL INDUSTRY ===
+
+1. Technology
+   - Digital banking and mobile apps
+   - Fintech disruption
+   - Artificial intelligence and automation
+
+2. Globalization
+   - Interconnected financial markets
+   - Cross-border transactions
+   - Systemic risk implications
+
+3. Regulatory Evolution
+   - Post-2008 financial crisis reforms
+   - Consumer protection emphasis
+   - International coordination
+
+
+=== WHAT IS A BANK? ===
+
+A bank performs as a FINANCIAL INTERMEDIARY that:
+- Accepts deposits from customers
+- Makes loans to borrowers
+- Provides payment services
+- Offers financial advisory services
+
+Key Characteristics:
+- Transforms short-term deposits into long-term loans
+- Manages credit and liquidity risk
+- Provides essential financial services
+- Subject to government regulation and supervision
+
+--- The Many Roles Banks Play (Table 1-1) ---
+- Intermediation role: transforms household savings into credit (loans) for businesses
+- Payment role: clears checks, provides electronic payment conduits
+- Guarantor role: stands behind customers (e.g., letters of credit)
+- Risk management role: helps customers prepare for risk of loss
+- Investment banking role: assists corporations/governments in raising new funds
+- Savings/investment advisor role: aids customers in long-range financial goals
+- Safekeeping/certification role: safeguards valuables, certifies value
+- Agency role: acts on behalf of customers to manage property
+- Policy role: serves as conduit for government economic policy
+
+--- Different Kinds of Financial-Service Firms Called Banks (Exhibit 1-1) ---
+- Commercial banks: deposits and loans to businesses, individuals, institutions
+- Money Centre Banks: largest commercial banks in leading financial centers
+- Community Banks: smaller, locally focused commercial and savings banks
+- Savings banks: attract savings deposits, lend to individuals and families
+- Cooperative banks: serve farmers, ranchers, consumers
+- Mortgage banks: provide mortgage loans, do not sell deposits
+- Investment banks: underwrite new securities for corporate customers
+- Merchant banks: supply debt and equity capital to businesses
+- Industrial banks: state-chartered loan companies owned by other corporations
+- International banks: commercial banks present in more than one nation
+- Wholesale banks: larger commercial banks serving corporations and governments
+- Retail banks: smaller banks serving households and small businesses
+- Limited-purpose banks: narrow menu (credit card companies, subprime lenders)
+- Bankers' banks: supply services (e.g., check clearing) to other banks
+- Minority banks: focus on minority group customers
+- National banks: federal charter via Comptroller of the Currency (US)
+- State banks: charters issued by state banking commissions
+- Insured banks: deposits backed by federal deposit insurance (e.g., FDIC)
+- Member banks: belong to the Federal Reserve System
+- Affiliated banks: wholly or partially owned by a holding company
+- Virtual banks: services only over the Internet
+- Fringe banks: payday/title loans, check cashing, pawn shops
+- Universal banks: offer virtually all financial services
+
+--- Money-Center vs Community Banks ---
+Money-center banks:
+- Industry leaders
+- Cover whole regions, nations, and continents
+- Offer the widest possible menu of financial services
+- Acquire smaller businesses
+- Face tough global competition
+
+Community banks:
+- Much smaller
+- Service local communities and towns
+- Offer narrower but more personalized menu
+
+US examples:
+- Money-center: JPMorgan Chase, Bank of America
+- Community: First Citizens Bank (Raleigh, NC), Eastern Bank (Boston, MA)
+
+HK examples:
+- Money-center: HSBC, Bank of China (HK) Limited (BOCHK)
+- Community: Hang Seng Bank, Dah Sing Bank
+
+--- Legal Basis for Banking ---
+- A bank is any business offering deposits subject to withdrawal on demand and making loans of a commercial or business nature
+- US Congress later defined a bank as any institution qualifying for FDIC deposit insurance
+- HK equivalent of FDIC = Hong Kong Deposit Protection Scheme (DPS), administered by the Hong Kong Deposit Protection Board (HKDPB)
+
+
+=== THE FINANCIAL SYSTEM ===
+
+Purpose: Facilitate the flow of funds from savers to borrowers
+
+Key Functions:
+- Encourage saving and investment
+- Channel savings to productive investments
+- Provide payment and settlement services
+- Manage and transfer risk
+- Provide liquidity
+
+Economic Impact:
+- Promotes economic growth
+- Creates jobs and raises living standards
+- Enables business expansion and innovation
+
+
+=== COMPETING FINANCIAL-SERVICE INSTITUTIONS ===
+
+Banks face competition from:
+- Savings associations and credit unions
+- Money market funds
+- Mutual funds and hedge funds
+- Security brokers and dealers
+- Investment banks
+- Finance companies
+- Insurance companies (Life and Property/Casualty)
+- Fintech companies
+
+Key debate:
+- Financial market share of banking has declined
+- Some say traditional banking is dying
+- Others say banking is changing form, offering new services
+- Largest customers bypass banks via open market borrowing
+- "Perhaps banking is being regulated to death"
+
+
+=== SERVICES OFFERED BY FINANCIAL INSTITUTIONS ===
+
+Traditional Services:
+- Accepting deposits and making loans
+- Payment services (checking, wire transfers)
+- Foreign exchange services
+
+Modern Services:
+- Investment management and wealth advisory
+- Insurance products
+- Retirement planning
+- Merchant banking
+- Securities underwriting
+- Derivatives and hedging
+
+
+=== KEY TRENDS AFFECTING FINANCIAL SERVICES ===
+
+1. Service Proliferation: more products and services offered
+2. Rising Competition: from traditional and fintech competitors
+3. Regulatory Evolution: increased oversight and compliance
+4. Technological Disruption: digital banking, AI, blockchain
+5. Consolidation: M&A reducing number of firms
+6. Geographic Expansion: national and international growth
+
+
+=== BANKING REGULATION AND HISTORY ===
+
+--- Historical Timeline of Major US Banking Laws ---
+
+1863-1864: National Currency and Bank Acts
+- First major federal banking laws (Civil War era)
+- Established national banking system
+- Created Office of Comptroller of the Currency (OCC) inside US Treasury
+- OCC charters and examines national banks
+
+1913: Federal Reserve Act
+- Created the Federal Reserve System (the Fed) in response to financial panics
+- Central bank for the United States
+- Fed's principal roles: lender of last resort, stabilize financial markets and economy
+- Today: control money and credit conditions to promote economic stability
+
+1933: Banking Act (Glass-Steagall)
+Key Provisions:
+1. Separated Commercial and Investment Banking
+   - Commercial banks: deposits and loans
+   - Investment banks: securities underwriting
+2. Created FDIC (deposit insurance)
+   - Initially insured up to $2,500 per depositor
+   - Now insures up to $250,000
+3. Prohibited Certain Activities
+   - Banks couldn't underwrite securities
+   - Investment banks couldn't take deposits
+Impact: Cornerstone of US banking regulation for 66 years
+
+1956: Bank Holding Company Act
+- Regulated bank holding companies
+
+--- Deregulation Era (1980s-1990s) ---
+
+1980: Depository Institutions Deregulation and Monetary Control Act (DIDMCA)
+- Phased out interest rate ceilings
+- Allowed thrifts broader services
+
+1982: Garn-St Germain Act
+- Money market deposit accounts
+- Wider asset investment authority
+
+1994: Riegle-Neal Interstate Banking Law
+- Allowed interstate banking
+- Enabled national banking system
+
+1999: Gramm-Leach-Bliley Act
+- Repealed Glass-Steagall
+- Allowed financial supermarkets
+
+--- The Savings and Loan Crisis (1986-1995) ---
+
+Causes:
+- Interest rate deregulation
+- Risky lending practices
+- Weak regulatory oversight
+- Real estate speculation
+
+Consequences:
+- Over 1,000 S&Ls failed
+- $125 billion government bailout
+- Massive taxpayer cost
+- Unemployment and economic disruption
+
+Regulatory Response:
+- FIRREA (1989): restructured regulation
+- FDICIA (1991): enhanced oversight
+
+--- Post-2008 Regulatory Framework ---
+
+The Dodd-Frank Act (2010) Key Provisions:
+- Created Consumer Financial Protection Bureau (CFPB)
+- Established Volcker Rule (proprietary trading ban)
+- Required stress testing
+- Enhanced capital requirements
+- Orderly liquidation authority
+
+Regulatory Agencies:
+- Federal Reserve
+- OCC (Office of Comptroller of the Currency)
+- FDIC (Federal Deposit Insurance Corporation)
+- CFPB (Consumer Financial Protection Bureau)
+- SEC (Securities and Exchange Commission)
+
+
+=== CENTRAL BANKING AND MONETARY POLICY ===
+
+--- The Federal Reserve System Structure ---
+
+1. Board of Governors (Washington, D.C.)
+   - 7 members, 14-year terms
+   - Appointed by President, confirmed by Senate
+
+2. Twelve Regional Federal Reserve Banks
+   - Boston, New York, Philadelphia, Cleveland
+   - Richmond, Atlanta, Chicago, St. Louis
+   - Minneapolis, Kansas City, Dallas, San Francisco
+
+3. Federal Open Market Committee (FOMC)
+   - 7 Board members + 5 Regional Bank presidents
+   - Sets monetary policy
+
+--- Fed Rate Hikes 2022-2023 (Taming Inflation) ---
+FOMC Meeting Date | Rate Change | Federal Funds Rate
+March 17, 2022 | +25 bps | 0.25% to 0.50%
+May 5, 2022 | +50 bps | 0.75% to 1.00%
+June 16, 2022 | +75 bps | 1.50% to 1.75%
+July 27, 2022 | +75 bps | 2.25% to 2.50%
+Sept 21, 2022 | +75 bps | 3.00% to 3.25%
+Nov 2, 2022 | +75 bps | 3.75% to 4.00%
+Dec 14, 2022 | +50 bps | 4.25% to 4.50%
+Feb 1, 2023 | +25 bps | 4.50% to 4.75%
+March 22, 2023 | +25 bps | 4.75% to 5.00%
+May 3, 2023 | +25 bps | 5.00% to 5.25%
+July 26, 2023 | +25 bps | 5.25% to 5.50%
+Source: forbes.com/advisor/investing/fed-funds-rate-history/
+
+--- Three Main Monetary Policy Tools ---
+
+1. Open Market Operations (OMO)
+   - Buying and selling government securities
+   - Most flexible tool, can be easily reversed
+   - Most frequently used
+
+2. Discount Rate
+   - Interest rate the Fed charges banks
+   - Less frequently changed
+   - Signals Fed policy intentions
+
+3. Reserve Requirements
+   - Percentage of deposits banks must hold
+   - Rarely changed (powerful impact)
+   - Eliminated for most banks in 2020
+
+--- How Monetary Policy Affects the Economy ---
+Transmission Mechanism:
+1. Fed Action: changes in OMO, discount rate, or reserve requirements
+2. Bank Behavior: changes in reserves affect lending capacity
+3. Interest Rates: market interest rates adjust
+4. Borrowing and Spending: consumers and businesses respond
+5. Economic Activity: GDP, employment, and inflation affected
+Time Lag: 6-18 months for full effect
+
+--- The Federal Funds Rate ---
+Definition:
+- Interest rate on overnight loans between banks
+- Banks lend reserve balances to each other
+- Fed sets target range
+
+Importance:
+- Primary indicator of Fed policy stance
+- Affects all other interest rates
+- Closely watched by financial markets
+
+FOMC Actions:
+- Raises rate to fight inflation
+- Lowers rate to stimulate the economy
+- Communicates through rate changes
+- Provides forward guidance
+
+--- The Central Banking System (Decisions and Policies) ---
+- US central bank = Federal Reserve System (the Fed)
+- Central bank's primary job = monetary policy
+- Goal: ensure economy grows adequately, unemployment low, inflation held down
+- Fed is independent (does not depend on government for funding); passes earnings to US Treasury
+- ECB (European Central Bank) is also relatively independent
+- Bank of Japan (BOJ), People's Bank of China (PBC), and other Asian central banks appear under closer government control
+- Research suggests more independent central banks better control inflation
+
+--- Federal Reserve Bank Services to Depository Institutions ---
+1. Issuing wire transfers between depository institutions
+2. Safe-keeping securities owned by depository institutions and customers
+3. Issuing new securities from US Treasury and federal agencies
+4. Making loans through the Discount Window
+5. Dispensing currency and coin
+6. Clearing and collecting checks and other cash items
+7. Providing information on developments
+
+Member banks: all OCC-chartered (national) banks plus state banks willing to conform to Fed supervision. Members must purchase stock (up to 6% of paid-in capital and surplus) in their district Reserve bank and submit to comprehensive examinations.
+
+--- Other Central Bank Policy Tools ---
+Moral suasion:
+- Central bank applies psychological pressure on individuals/institutions to conform to policy
+Examples:
+- Officials testifying before legislative committees
+- Letters/calls to institutions straying from policy
+- Press releases urging public cooperation
+
+--- Leading Central Banks in Europe ---
+1. European Central Bank (ECB): central bank for Eurozone (19 of 27 EU member states)
+2. Bank of England (BoE): UK central bank, issues GBP
+3. Deutsche Bundesbank: Germany's central bank, key Eurosystem institution
+4. Banque de France: France's central bank, integral to Eurosystem
+
+--- Leading Central Banks in Asia ---
+1. People's Bank of China (PBOC): China's central bank
+2. Bank of Japan (BoJ): Japan's central bank, issues JPY, known for unconventional monetary easing
+3. Reserve Bank of India (RBI): India's central bank, issues INR
+
+
+=== FINANCIAL SYSTEM OVERVIEW ===
+
+--- Financial Services in 1950 (Specialized Institution Model) ---
+Commercial Banks: deposits, commercial lending, payment services, limited geography
+Investment Firms: securities underwriting, stock brokerage
+Insurance Companies: life and property insurance, savings products
+Pension Funds: retirement savings, long-term investing
+Result: Little overlap or competition
+
+--- Products of US Financial Institutions in 1950 ---
+(Functions: Payment Services, Savings Products, Fiduciary Services, Lending [Business/Consumer], Underwriting [Equity/Debt], Insurance & Risk Mgmt)
+- Depository Institutions: Payment, Savings, Fiduciary, Business Lending, Consumer Lending
+- Insurance Companies: Savings, Business Lending, Insurance
+- Finance Companies: Business Lending (minor), Consumer Lending, Insurance
+- Securities Firms: Savings, Fiduciary, Business Lending (minor), Equity Underwriting, Debt Underwriting
+- Pension Funds: Savings
+- Mutual Funds: Savings
+
+--- Financial Services in 2021 (Convergence Model) ---
+Financial Supermarkets offer:
+- Banking services
+- Investment services
+- Insurance products
+- Wealth management
+- All from one institution
+
+Examples: JPMorgan Chase, Bank of America, Wells Fargo, Citigroup
+Result: Significant overlap and competition
+Challenge: Increased complexity and systemic risk
+
+--- Products of US Financial Institutions in 2021 ---
+- Depository Institutions: ALL functions (payment, savings, fiduciary, all lending, all underwriting, insurance)
+- Insurance Companies: ALL functions
+- Finance Companies: most functions; equity/debt underwriting minor
+- Securities Firms: ALL functions
+- Pension Funds: savings, fiduciary, business lending, insurance
+- Mutual Funds: payment, savings, fiduciary
+
+
+=== BANKING REGULATIONS IN DETAIL ===
+
+--- FDIC (Federal Deposit Insurance Corporation) ---
+Created: 1933 (Banking Act)
+Purpose:
+- Insure deposits of bank customers
+- Prevent bank runs and panics
+- Maintain public confidence
+Coverage:
+- Up to $250,000 per depositor per bank
+- Covers checking, savings, money market
+- Does NOT cover stocks, bonds, mutual funds
+Funding:
+- Premiums paid by member banks
+- Risk-based pricing system
+- Reserve fund for payouts
+
+--- US Bank Regulators (Primary Federal) ---
+1. Office of Comptroller of Currency (OCC)
+   - Charters national banks
+   - Examines for safety and soundness
+   - Part of Treasury Department
+2. Federal Reserve
+   - Regulates state member banks
+   - Supervises bank holding companies
+   - Conducts monetary policy
+3. FDIC
+   - Insures deposits
+   - Regulates state non-member banks
+   - Acts as receiver for failed banks
+4. Consumer Financial Protection Bureau (CFPB)
+   - Enforces consumer protection laws
+   - Handles consumer complaints
+
+--- Bank Capital Requirements (Basel III, Post-2008) ---
+Definition: equity capital banks must maintain as buffer against losses, expressed as percentage of assets.
+
+Minimum standards:
+- Common Equity Tier 1 (CET1): 4.5%
+- Tier 1 Capital: 6%
+- Total Capital: 8%
+
+Additional Requirements:
+- Capital conservation buffer: 2.5%
+- Countercyclical buffer: 0-2.5%
+- G-SIB surcharge: 1-3.5%
+
+Purpose: absorb losses, maintain lending during stress, reduce systemic risk
+
+--- Consumer Protection Laws ---
+Truth in Lending Act (TILA):
+- Requires clear disclosure of loan terms (APR, finance charges, payment schedule)
+
+Equal Credit Opportunity Act (ECOA):
+- Prohibits discrimination in lending (race, color, religion, national origin)
+
+Community Reinvestment Act (CRA):
+- Requires banks to serve all communities
+- Prohibits redlining
+- Affects regulatory approval of mergers
+
+Dodd-Frank Act (2010):
+- Created CFPB
+- Requires plain language in disclosures
+- Prohibits unfair and deceptive practices
+
+
+=== THE 2008 FINANCIAL CRISIS ===
+
+Timeline: 2007-2009
+
+Causes:
+- Subprime mortgage lending boom
+- Complex securities (MBS, CDO)
+- Excessive leverage
+- Inadequate regulation
+- Rating agency failures
+
+Key Events:
+- Bear Stearns collapse (March 2008)
+- Lehman Brothers failure (September 2008)
+- AIG bailout ($182 billion)
+- Credit market freeze
+- Stock market crash (57% decline)
+
+Consequences:
+- 9 million jobs lost
+- $16 trillion in household wealth destroyed
+- Unemployment reached 10%
+
+
+=== FINTECH AND DIGITAL BANKING REVOLUTION ===
+
+Definition:
+- Financial technology
+- Technology-driven financial services
+- Disrupting traditional banking
+
+Key Areas:
+- Mobile payments (Apple Pay, Google Pay)
+- Peer-to-peer lending (LendingClub)
+- Robo-advisors (Betterment, Wealthfront)
+- Cryptocurrency (Bitcoin, Ethereum)
+- Blockchain technology
+
+Impact on Banking:
+- Declining branch networks
+- Reduced customer deposits
+- Competition for talent
+- Need for technological investment
+- Partnerships with fintech firms
+
+
+=== LEARNING OUTCOMES (Lecture 1) ===
+By the end of this lecture, you should be able to:
+- Understand the powerful forces reshaping the industry
+- Define what a bank is and its key functions
+- Explain the role of the financial system
+- Describe services offered by financial institutions
+- Identify key trends affecting the industry
+- Explain reasons for banking regulation
+- Identify major regulators and important banking laws
+- Understand central banking and monetary policy
+
+Instructor contact: sk-derek.chung@polyu.edu.hk
+
+=== END OF LECTURE 1 ===
