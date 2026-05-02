@@ -1,0 +1,794 @@
+=== AF4322 LECTURE 3 & 4: FINANCIAL STATEMENTS & FINANCIAL-FIRM PERFORMANCE ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+Covers: Chapter 3 & Chapter 4
+
+=== KEY TOPICS / WHAT YOU WILL LEARN ===
+Part 1: Financial Statements
+  - Understand structure and components of bank balance sheets and income statements
+Part 2: Performance Analysis
+  - Master tools and ratios used to evaluate bank profitability and efficiency
+Part 3: Risk Assessment
+  - Identify and measure key risks facing financial institutions
+
+Key Skills:
+  - Read and interpret financial reports
+  - Calculate performance ratios
+  - Benchmark against peers
+
+KEY TAKEAWAY: Financial statements are the language of business. Mastering this language is your first step to understanding any financial institution.
+
+
+===========================================================
+=== PART 1: FINANCIAL STATEMENTS OF BANKS ===
+===========================================================
+
+KEY SUBTOPICS FOR PART 1:
+- Overview of Balance Sheets and Income Statements
+- The Balance Sheet (Report of Condition)
+- Asset Items on the Balance Sheet
+- Liability Items on the Balance Sheet
+- Recent Expansion of Off-Balance-Sheet Items
+- The Problem of Book-Value Accounting and "Window Dressing"
+- Components of the Income Statement: Revenues and Expenses
+
+
+=== WHY FINANCIAL STATEMENTS MATTER ===
+Financial statements serve as a comprehensive narrative of a bank's operations, revealing past, present, and future trajectory.
+
+Three perspectives:
+- Historical: Where the institution has been (prior period comparison)
+- Current: Where it stands today (Balance Sheet / Report of Condition)
+- Prospective: Where it may be headed (Trend analysis & forecasts)
+
+Two main statements:
+- BALANCE SHEET (Report of Condition) — a snapshot at a point in time
+- INCOME STATEMENT (Report of Income) — a flow over a period
+
+KEY TAKEAWAY: The Balance Sheet tells you what a bank owns and owes; the Income Statement tells you how well it's using those resources.
+
+
+=== INTERMEDIARY FUNCTION OF FINANCIAL INSTITUTIONS ===
+Sources of Funds (Inputs) → Financial Institution (Intermediary) → Uses of Funds (Outputs)
+
+Balance Sheet (Report of Condition):
+- Shows amount and composition of fund sources (inputs)
+- Shows allocation to loans, securities, other uses (outputs)
+- Snapshot at a specific point in time
+
+Income Statement (Report of Income):
+- Shows cost of acquiring funds and revenues from fund uses
+- Shows revenues from selling services (loans, deposits)
+- Shows net earnings after all costs
+- Flows over a period of time
+
+
+=== KEY ITEMS ON BANK FINANCIAL STATEMENTS ===
+
+BALANCE SHEET (Snapshot):
+Assets (Uses of Funds):
+  C  = Cash Assets
+  S  = Securities
+  L  = Loans and Leases
+  MA = Miscellaneous Assets
+
+Liabilities & Equity (Sources of Funds):
+  D   = Deposits
+  NDB = Non-deposit Borrowings
+  EC  = Equity Capital
+
+Balance Sheet Identity:
+  Assets = Liabilities + Equity Capital
+  C + S + L + MA = D + NDB + EC
+
+INCOME STATEMENT (Flow over Time):
+Revenues:
+  - Interest Income
+  - Non-interest (Fee) Income
+Expenses:
+  - Interest Expenses
+  - Non-interest (Operating) Expenses
+  - Provision for Loan Losses
+Result:
+  - Net Income/Loss
+
+
+=== KEY MANAGEMENT CONSIDERATIONS ===
+- Balance Sheet Management
+- Liquidity Risk Management
+- Capital Adequacy Management
+
+
+=== ASSET CATEGORIES ON THE BALANCE SHEET ===
+
+| Category | Purpose | Risk-Return |
+|----------|---------|-------------|
+| C: Cash Assets | First Line of Defense | Low risk / Zero return |
+| S: Securities | Second Line of Defense (backup liquidity + income) | Low-medium risk / Low-medium return |
+| L: Loans & Leases | Primary Income Source / Core business | High risk / High return |
+| MA: Misc. Assets | Operations support (Buildings, equipment) | Varies |
+
+KEY TAKEAWAY: Banks face a constant trade-off — holding more cash improves safety but destroys profitability.
+
+
+=== CASH ASSETS (C) — THE FIRST LINE OF DEFENSE ===
+
+Key Components:
+- Vault Cash: Physical currency held on premises to meet immediate withdrawals
+- Correspondent Deposits: Funds held at other banks for clearing and services
+- Items in Collection: Checks and payments currently being processed
+- Central Bank Reserves: Required and excess reserves held at the Federal Reserve
+
+The Liquidity-Profitability Trade-off:
+| Holding More Cash | Holding Less Cash |
+|-------------------|-------------------|
+| Higher Liquidity | Higher Profitability |
+| Lower Risk | Asset Efficiency |
+| Zero Interest Earned | Higher Liquidity Risk |
+| Reduced Profitability | Vulnerable to Runs |
+
+KEY TAKEAWAY: Cash is king for survival, but a drag on earnings. Smart banks hold just enough — no more, no less.
+
+
+=== SECURITIES (S) — THE SECOND LINE OF DEFENSE ===
+Dual Purpose: Liquidity Backup + Income Generation
+
+Types:
+- Liquid Securities: T-Bills, Commercial Paper — High Liquidity, Low Yield
+- Taxable Securities: Government Bonds, Corporate Bonds — Medium Liquidity, Higher Yield
+- Tax-Exempt Securities: Municipal Bonds — Tax Advantages, Attractive After-Tax Return
+
+Accounting Classifications (governed by IFRS 9 or FASB ASC 320):
+- Held-to-Maturity (HTM): Carried at Amortized Cost
+- Available-for-Sale (AFS): Carried at Fair Value (changes in OCI)
+- Trading Securities: Carried at Fair Value (changes in Income)
+
+KEY TAKEAWAY: Securities provide a crucial buffer — they earn income while waiting to be converted to cash if needed.
+
+
+=== LOANS & LEASES (L) — PRIMARY INCOME SOURCE ===
+- Dominant Asset: 50-75% of total assets — the core of the balance sheet
+- Primary Income: Highest yield among all assets
+- Primary Risk: Significant Credit Risk (default) and Liquidity Risk
+
+Types of Loans:
+- Real Estate Loans: Secured by real property; often largest category (Mortgages, Commercial RE)
+- Commercial & Industrial (C&I): Credit to businesses for operations and working capital
+- Consumer Loans: Auto, Credit Cards, Personal — higher default rates
+- Other Loans: Agricultural, Foreign, Lease Financing
+
+Key Insight: Loans are illiquid — cannot be easily sold without significant loss of value.
+
+KEY TAKEAWAY: Loans are where banks make their money — and where they can lose it all. Credit quality is everything.
+
+
+=== ACCOUNTING FOR CREDIT RISK ===
+
+ALLOWANCE FOR LOAN LOSSES (ALL):
+- A contra-asset account that reduces gross loans
+- Net Loans = Gross Loans − ALL
+- Forward-Looking Provisioning: Under IFRS 9 / ASC 326, ALL reflects Expected Credit Losses (ECL),
+  requiring estimates of future defaults over life of loan, even without default event
+
+PROVISION FOR LOAN LOSSES (PLL):
+- An expense on the income statement
+- What management uses to build up the ALL reserve
+
+Reconciliation:
+  Beginning ALL + PLL − Net Charge-offs = Ending ALL
+
+KEY TAKEAWAY: The Provision for Loan Losses is the critical link between Income Statement and Balance Sheet — it's how banks recognize credit risk.
+
+
+=== LIABILITIES OF THE BANKING FIRM ===
+Sources of Funds — The "Raw Material"
+
+| Source Type | Characteristics | Cost |
+|-------------|----------------|------|
+| Core Deposits | Stable, relationship-based | Lower Cost |
+| Wholesale Funding | Market-sensitive, volatile | Higher Cost |
+
+Evolution of Funding:
+- Traditional Model: Relied on local deposits. Growth limited by local base. Stable but slow.
+- Modern Model: Taps global money markets. Enables aggressive growth but introduces higher volatility.
+
+HIGH LEVERAGE INDUSTRY:
+Banks typically operate with 90%+ debt financing — far higher than most other industries.
+
+KEY TAKEAWAY: The quality and cost of funding sources directly determine a bank's profitability and stability.
+
+
+=== DEPOSITS (D) ===
+
+| Type | Interest | Stability | Cost to Bank |
+|------|----------|-----------|--------------|
+| Demand Deposits | None | High Turnover | Low (High Handling) |
+| NOW Accounts | Low | Moderate | Low-Medium |
+| Savings Deposits | Low | Very Stable | Low |
+| Money Market (MMDA) | Market | Moderate | Medium-High |
+| Time Deposits | Fixed | Locked | Highest |
+
+CORE DEPOSITS vs HOT MONEY:
+
+Core Deposits:
+- Stable, relationship-based funding from local customers
+- Low interest cost
+- Not rate-sensitive
+- "Sticky" funding source
+
+Hot Money:
+- Volatile funding that moves quickly to highest bidder
+- Rate-sensitive
+- Will leave for higher yields
+- Higher risk of flight
+
+KEY TAKEAWAY: Core deposits are a bank's most valuable funding source — cheap, stable, and sticky. Losing them is costly.
+
+
+=== PURCHASED FUNDS FROM MONEY MARKETS ===
+
+| Instrument | Description | Collateral |
+|------------|-------------|------------|
+| Fed Funds Purchased | Overnight borrowing from other banks' excess reserves | Unsecured |
+| Repurchase Agreements (Repos) | Selling securities with agreement to buy back | Secured |
+| Eurocurrency Borrowings | Foreign currency deposits held outside home country | Unsecured |
+| Commercial Paper | Short-term promissory notes issued by large banks | Unsecured |
+
+Advantages:
+- Rapid access to large amounts of capital
+- Enables aggressive balance sheet growth
+- No reserve requirements (for some instruments)
+
+Risks:
+- Volatile — can disappear in a crisis
+- Higher cost than core deposits
+- Rollover risk (inability to renew funding)
+
+KEY TAKEAWAY: Wholesale funding is a double-edged sword — it enables growth but can evaporate when you need it most.
+
+
+=== EQUITY CAPITAL (EC) — THE CAPITAL CUSHION ===
+
+The Loss Absorber:
+Equity capital acts as a buffer against asset devaluation.
+It absorbs losses BEFORE depositors or creditors lose anything.
+
+Key Components:
+- CS: Common Stock (Par Value)
+- S: Surplus (Paid-in Capital)
+- RE: Retained Earnings (Accumulated Profits)
+
+The Safety vs. Return Trade-off:
+- More Capital = Safer Bank, Lower ROE
+- Less Capital = Riskier Bank, Higher ROE
+- Because equity is the most expensive form of funding
+
+KEY TAKEAWAY: Capital is the bank's "skin in the game." Regulators demand it for safety; shareholders minimize it for returns.
+
+
+=== OFF-BALANCE-SHEET (OBS) ACTIVITIES — "INVISIBLE BANKING" ===
+
+Definition: Contingent assets and liabilities that don't appear on balance sheet today
+but may crystallize into real assets/liabilities in the future.
+
+Types:
+- Unused Commitments: Promises to lend funds (e.g., Credit Card lines, Revolving Credit)
+- Letters of Credit: Guarantees to pay a third party if customer defaults (common in trade finance)
+- Derivatives: Swaps, Options, Futures used for hedging or speculation
+
+The Motivation — Fee Income:
+Generates significant non-interest income without requiring immediate funding or assets.
+
+The Risk — Hidden Leverage:
+Creates "Shadow Banking" risks that can suddenly explode during financial stress.
+
+Regulation: Basel III mandates capital be held against the credit-equivalent amount of OBS exposures
+using prescribed Credit Conversion Factors (CCFs).
+
+KEY TAKEAWAY: OBS activities allow banks to punch above their weight — generating fees today while pushing risks into the future.
+
+
+=== BALANCE SHEET — SUMMARY ===
+
+| Assets (Uses) | Liabilities (Sources) | Equity (Capital Cushion) |
+|--------------|----------------------|-------------------------|
+| Loans: high yield, high credit/liquidity risk | Core Deposits: stable, low-cost, relationship-driven | Buffer: absorbs losses to protect depositors / FDIC |
+| Securities: liquidity buffer + secondary income | Wholesale Funds: flexible but volatile and expensive | Ownership: shareholder claim |
+| Cash: essential for survival but earns zero | Leverage: 90%+ debt | Regulation: strictly mandated minimums |
+| Trade-off: Liquidity vs. Profitability | Trade-off: Cost vs. Stability | Trade-off: Safety vs. ROE |
+
+The Management Challenge:
+Successful banking requires optimizing the spread between Asset Yield and Liability Cost,
+while maintaining sufficient Liquidity and Capital to survive shocks.
+
+KEY TAKEAWAY: The Balance Sheet is not just a list of numbers; it is a strategic map of a bank's risk appetite and business model.
+
+
+=== THE INCOME STATEMENT — MEASURING PERFORMANCE OVER TIME ===
+
+Flow vs. Snapshot:
+Unlike Balance Sheet (snapshot), Income Statement measures FLOW of revenues and expenses over a period.
+
+Components:
+- Interest Income (II): Revenue from loans and securities
+- Interest Expense (IE): Cost paid to depositors and creditors
+- Non-Interest Income (OI): Fees, service charges, trading gains
+- Non-Interest Expense (OE): Salaries, rent, operational costs
+
+KEY TAKEAWAY: Net Income is the bottom line, but Net Interest Income is the engine that drives most banks.
+
+
+=== THE INTEREST MARGIN ===
+
+NET INTEREST INCOME (NII) — Absolute $:
+  NII = Interest Income − Interest Expense
+- Raw dollar profit from core lending and investment activities
+- Covers operating expenses and loan losses
+
+NET INTEREST MARGIN (NIM) — Relative %:
+  NIM = NII / Total Earning Assets
+- Standardized measure of efficiency
+- Shows net interest earned per dollar of assets deployed
+
+What Drives the Margin?
+- Interest Rate Spread
+- Asset & Liability Mix
+- Non-Performing Loans
+
+KEY TAKEAWAY: NIM is the banking equivalent of "Gross Margin" in retail. Shrinking NIM = core business under pressure.
+
+
+=== FEE-BASED REVENUE — DIVERSIFYING BEYOND INTEREST INCOME ===
+
+Strategic Imperative: As NIMs compress due to competition and rate environments,
+banks increasingly rely on Non-Interest Income to sustain profitability.
+
+Categories:
+| Category | Examples | Characteristic |
+|----------|----------|----------------|
+| Fiduciary Activities | Trust services, Wealth Management, Asset Management Fees | Stable & Recurring |
+| Service Charges | Deposit Account Fees, Overdraft, Transaction Fees | Stable but Cyclical |
+| Trading & Other | Investment Banking Fees, Asset Sales Gains, Securitization Income | High Reward / Volatile |
+
+KEY TAKEAWAY: Fee income is the holy grail for banks — doesn't require capital reserves and provides a buffer when interest rates fall.
+
+
+=== OPERATING COSTS AND THE BURDEN ===
+
+NON-INTEREST EXPENSE (NIE) Components:
+- Personnel Expense: Salaries & Benefits (typically >50% of NIE)
+- Occupancy: Rent, utilities, branch maintenance
+- Technology: IT infrastructure, software, cybersecurity
+
+THE EFFICIENCY RATIO (Lower is Better):
+  Efficiency Ratio = Non-Interest Expense / (Net Interest Income + Non-Interest Income)
+  "How much does it cost to generate $1 of revenue?"
+  Benchmark: < 55% is considered efficient
+
+THE "BURDEN" (Net Overhead):
+  Burden = Non-Interest Expense − Non-Interest Income
+- The amount of operating expense NOT covered by fee income
+- This deficit must be covered by Net Interest Margin
+
+
+=== UNDERSTANDING THE BURDEN — THE HURDLE TO PROFITABILITY ===
+
+Calculating the Burden:
+  Non-Interest Expense (Cost)
+  − Non-Interest Income (Offset)
+  = Net Overhead = BURDEN
+
+Most banks lose money on operations (Fees < Expenses).
+To be profitable, NII must be large enough to cover Burden, Loan Losses, and Taxes.
+
+The Profit Condition:
+  NII > Burden + Provision
+
+KEY TAKEAWAY: The Burden is the hole the bank starts in every morning. Net Interest Income is the ladder to climb out.
+
+
+=== PROVISION FOR LOAN LOSSES (PLL) — THE CRITICAL LINK ===
+
+What is it?
+A non-cash expense charged against current earnings to build up reserve for future loan losses.
+Reflects management's expectation of risk, not necessarily actual defaults today.
+
+The Link:
+Income Statement: Interest Income − Interest Expense − PLL = Net Income (feeds into) → Balance Sheet: Gross Loans − ALL = Net Loans
+
+Management Discretion & Earnings Smoothing:
+Because PLL is an estimate, managers can use it to smooth earnings —
+over-provisioning in good times to cushion bad times.
+
+KEY TAKEAWAY: PLL is the price of risk. It reduces today's profit to buy tomorrow's safety.
+
+
+=== INCOME STATEMENT — SUMMARY ===
+
+The Engine — Net Interest Margin (NIM):
+- Function: Generates core revenue from lending
+- Drivers: Interest rate environment, asset mix, funding costs
+- Key Metric: NIM > 3.0% (typical)
+
+The Discipline — Efficiency Ratio:
+- Function: Controls the "Burden" of operating costs
+- Drivers: Technology adoption, branch network size, headcount
+- Key Metric: Efficiency Ratio < 55%
+
+The Risk Cost — Provision (PLL):
+- Function: Adjusts profit for expected credit losses
+- Drivers: Economic cycle, underwriting standards, portfolio quality
+- Trade-off: Safety vs. ROE
+
+The Profitability Equation:
+  Sustainable Profit = Strong Margin (Revenue) − Lean Operations (Expense) − Accurate Provisions (Risk)
+
+KEY TAKEAWAY: You can't shrink your way to greatness (Efficiency), but you can grow your way to bankruptcy (Bad Loans). Balance is key.
+
+
+===========================================================
+=== PART 2: MEASURING FINANCIAL-FIRM PERFORMANCE ===
+===========================================================
+
+=== PERFORMANCE FROM DIFFERENT PERSPECTIVES ===
+Performance is not a single number. It depends entirely on who is asking:
+
+- The Shareholder: "Maximize my Return on Equity (ROE) and stock price."
+- The Regulator: "Ensure Capital Adequacy and Solvency to protect the system."
+- The Depositor: "Keep my money safe and liquid (Low Risk)."
+
+KEY TAKEAWAY: A bank that maximizes profit without managing risk is not "performing" — it is gambling.
+
+
+=== WHAT SHOULD BANKS MAXIMIZE? ===
+
+PROFIT MAXIMIZATION (focus: short-term Net Income):
+- Ignores Risk: can be achieved by taking dangerous bets
+- Ignores Timing: a dollar today vs. a dollar tomorrow
+- Short-termism: sacrifices long-term health for quarterly results
+
+WEALTH MAXIMIZATION (focus: Value of the Firm / Stock Price):
+- Considers Risk: higher risk requires higher return
+- Considers Timing: uses Present Value of future cash flows
+- Sustainable: balances growth with safety
+
+The Value Equation:
+  Value = Returns / Risk
+Value is determined by stream of future cash flows adjusted for risk.
+
+KEY TAKEAWAY: The goal is not just to make money, but to create value. Profit without safety is just a gamble.
+
+
+=== THE "BIG THREE" PERFORMANCE METRICS ===
+
+1. RETURN ON EQUITY (ROE) — Target: 10-15%
+   - Rate of return to shareholders
+   - Measures how well the bank uses owner capital
+   - Focus: Shareholder Wealth
+
+2. RETURN ON ASSETS (ROA) — Target: ~1.0-1.5%
+   - Primary indicator of managerial efficiency
+   - Measures profit per dollar of assets
+   - Focus: Operational Efficiency
+
+3. NET INTEREST MARGIN (NIM) — Target: > 3.0%
+   - Spread between interest income and interest expense relative to earning assets
+   - Focus: Core Lending Profitability
+
+The Vital Connection:
+Banks have low ROA (thin margins) but high ROE.
+How? LEVERAGE.
+By using debt (deposits) to fund assets, banks magnify small asset returns into large equity returns.
+
+
+=== ROE — THE PRIMARY PERFORMANCE METRIC ===
+
+Formula: ROE = Net Income / Total Equity
+
+Interpreting ROE:
+| Range | Interpretation | Verdict |
+|-------|----------------|---------|
+| < 10% | Destroys value. Below cost of capital | Poor |
+| 10% - 15% | Healthy return. Covers cost of capital | Target |
+| > 15% | Excellent performance OR excessive leverage | Caution |
+
+THE LEVERAGE TRAP:
+A bank can artificially boost ROE by holding less capital (increasing risk),
+rather than by being more efficient.
+
+KEY TAKEAWAY: ROE is the king of ratios, but it can be a deceptive monarch. Always check if high ROE comes from skill (ROA) or risk (Leverage).
+
+
+=== ROA — MEASURING OPERATING EFFICIENCY ===
+
+Formula: ROA = Net Income / Total Assets
+
+Why It Matters:
+ROA ignores financial leverage. Focuses purely on how efficiently management converts assets into profit.
+Best indicator of operational quality.
+
+Benchmarks (banks are highly leveraged, so ROA appears small vs. other industries):
+| Performance | ROA |
+|-------------|-----|
+| Excellent | > 1.50% |
+| Good / Average | 1.00% - 1.25% |
+| Underperforming | < 0.75% |
+
+The Drivers — to improve ROA, a bank must:
+- Increase Net Interest Margin (Revenue)
+- Reduce Non-Interest Expense (Efficiency)
+- Minimize Loan Losses (Risk)
+
+KEY TAKEAWAY: A bank with high ROE but low ROA is simply using leverage to mask operational inefficiency. ROA tells the truth.
+
+
+=== DECOMPOSING ROE — THE DUPONT FRAMEWORK ===
+
+Why Decompose?
+ROE tells you what happened (the return), but not how it was achieved.
+DuPont analysis breaks ROE into distinct drivers to diagnose performance.
+
+THE THREE-COMPONENT DUPONT MODEL:
+
+  ROE = Profit Margin × Asset Utilization × Equity Multiplier
+
+| Component | Formula | Question | Measures |
+|-----------|---------|----------|----------|
+| Profit Margin (Expense Control) | Net Income / Total Revenue | "How much do we keep?" | Effectiveness of expense management and pricing. Low margin = high costs or low prices |
+| Asset Utilization (Asset Efficiency) | Total Revenue / Total Assets | "How hard do assets work?" | Portfolio yield and fee generation. Low utilization = lazy assets (e.g., too much cash) |
+| Equity Multiplier (Leverage Policy) | Total Assets / Total Equity | "How much debt do we use?" | Financial leverage. High multiplier boosts ROE but increases insolvency risk |
+
+Two-Component Version:
+  ROE = ROA × Equity Multiplier
+  - ROA (the Engine): operational efficiency
+  - EM (the Turbocharger): financial leverage
+
+KEY TAKEAWAY: Never accept a high ROE at face value. Always ask: Is this return coming from efficiency or leverage?
+
+
+=== INTERPRETING DUPONT RESULTS — DIAGNOSING DRIVERS ===
+
+Strategy 1: The "Retail" Model
+- High Turnover, Low Margin
+- Like a grocery store: processes huge volumes of transactions efficiently
+
+Strategy 2: The "Niche" Model
+- High Margin, Low Turnover
+- Like a luxury boutique: specialized services (Wealth Management) with higher fees
+
+The Warning Sign: High Leverage Only
+- If ROE is high but ROA is low, the bank is not efficient — it's just taking excessive risk with debt
+
+KEY TAKEAWAY: DuPont Analysis reveals the "DNA" of a bank's strategy. Is it a volume player, a margin player, or a gambler?
+
+
+===========================================================
+=== PART 3: THE BUSINESS OF MANAGING RISK ===
+===========================================================
+
+=== BANKING IS RISK MANAGEMENT ===
+Banks are not in the business of avoiding risk.
+They are in the business of pricing risk correctly and managing it effectively.
+
+THE SPECTRUM OF BANKING RISKS:
+- Credit Risk: Borrower Default
+- Liquidity Risk: Cash Shortfall
+- Market Risk: Rate / Price Changes
+- Operational Risk: System / Fraud
+- Capital Risk: Insolvency
+
+KEY TAKEAWAY: If you don't take risks, you don't make money. If you don't manage risks, you lose the bank.
+
+
+=== CREDIT RISK — WHEN BORROWERS CAN'T PAY ===
+The risk that promised cash flows from loans and securities will not be paid in full.
+Historical cause of most bank failures.
+
+Key Metrics:
+- Non-Performing Loans (NPLs): Loans > 90 days past due. The "Leading Indicator" of trouble
+- Net Charge-Offs (NCOs): Loans actually written off as losses. The "Lagging Indicator"
+
+Warning Signs:
+- Rapid Asset Growth ("Growth eats quality")
+- High Concentration (e.g., too much CRE)
+- Loosening Underwriting Standards
+
+
+=== MARKET RISK — INTEREST RATE AND PRICE EXPOSURE ===
+The Danger of Maturity Transformation:
+Banks typically borrow short (Deposits) and lend long (Mortgages).
+This mismatch creates sensitivity to interest rate changes.
+
+INTEREST RATE RISK:
+- Impact on Earnings (NIM): When rates rise, deposit costs often reprice faster than loan yields, squeezing NIM
+- Impact on Value (MVE): Economic value of long-term fixed-rate assets declines when rates rise, reducing Market Value of Equity
+
+PRICE RISK:
+- Trading Portfolios: Banks holding bonds, commodities, or currencies for trading face immediate losses if market prices drop
+- Mark-to-Market: Trading assets marked to market daily, creating volatility in reported income (unlike loans held at book value)
+
+KEY TAKEAWAY: Banks live by the spread, but die by the spike. Managing the gap between asset and liability duration is critical for survival.
+
+
+=== OPERATIONAL, LEGAL, AND REPUTATION RISK — NON-FINANCIAL THREATS ===
+
+OPERATIONAL RISK:
+Failures in internal processes, people, systems, or external events
+- Cybersecurity breaches & hacking
+- IT system outages
+- Employee fraud or error
+- Natural disasters
+
+LEGAL & COMPLIANCE RISK:
+Earnings/capital risk from violations of laws, regulations, or contracts
+- Money Laundering (AML) fines
+- Consumer protection violations
+- Unenforceable contracts
+- Class action lawsuits
+
+REPUTATION RISK:
+Negative publicity causing decline in customer base or revenue
+- Scandals (e.g., Fake Accounts)
+- Poor customer service
+- Unethical behavior
+- Data privacy leaks
+
+The Domino Effect:
+  Operational Failure → Legal Fines → Reputation Damage → Loss of Value
+
+KEY TAKEAWAY: It takes 20 years to build a reputation and five minutes to ruin it. Operational failures are often the spark that starts the fire.
+
+
+=== CAPITAL RISK — THE ULTIMATE RISK ===
+The Buffer Against Insolvency
+
+What is it?
+The risk that a bank's asset values drop below its liabilities, rendering it insolvent.
+Capital is the "cushion" that absorbs losses to protect depositors.
+
+The Solvency Equation:
+  Assets = Liabilities + Capital
+  If Losses > Capital, the bank fails.
+
+Capital Tiers:
+- CET1 (Common Equity Tier 1): The "Gold Standard". Common stock & retained earnings.
+  Absorbs losses while bank is open ("Going Concern")
+- Tier 2 Capital: Subordinated debt & reserves.
+  Absorbs losses only after failure ("Gone Concern")
+
+KEY TAKEAWAY: Liquidity keeps the bank open today. Capital keeps the bank open tomorrow. It is the price of staying in business.
+
+
+=== CASE STUDY: SILICON VALLEY BANK (SVB) FAILURE ===
+The collapse of SVB in March 2023 was a textbook example of how severe liquidity risk,
+combined with interest rate risk and a concentrated customer base,
+can lead to a rapid and catastrophic bank failure.
+
+- The California bank was closed by regulators on Friday and put under FDIC control
+- Followed a tumultuous few days, including a botched capital call
+- Rush of depositors withdrawing their funds
+
+
+=== UNIFORM BANK PERFORMANCE REPORT (UBPR) ===
+The Gold Standard for Benchmarking
+
+What is it?
+A multi-page analytical tool created by the Federal Financial Institutions Examination Council (FFIEC)
+for bank supervision. Presents impact ratios and financial data alongside peer group.
+
+Features:
+- Peer Group Analysis: Compares bank to others of similar size and location
+  Ensures "apples-to-apples" comparisons
+- Percentile Rankings: Shows where bank stands relative to peers
+  (e.g., "90th percentile" = better than 90% of peers)
+
+Why Peer Groups Matter:
+You cannot compare a $100M community bank to JPMorgan Chase.
+Their business models, funding costs, and risk profiles are completely different.
+The UBPR solves this by grouping similar banks.
+
+KEY TAKEAWAY: Absolute numbers (Net Income) tell you size. Ratios (ROA) tell you performance. Peer comparison (UBPR) tells you the truth.
+
+
+=== SUMMARY — FINANCIAL STATEMENTS ===
+
+THE BALANCE SHEET (Snapshot):
+- Identity: Assets (Uses) = Liabilities (Sources) + Equity (Capital)
+- Structure: Assets typically long-term and illiquid (Loans); Liabilities short-term and liquid (Deposits)
+- Trade-off: Cash is safe but yields nothing. Loans yield income but carry risk.
+
+THE INCOME STATEMENT (Movie):
+- Driver 1: Net Interest Income (NII) — the engine (Spread)
+- Driver 2: Non-Interest Expense (Burden) — the drag
+- Driver 3: Provision (PLL) — the cost of risk
+
+The Critical Link:
+Balance Sheet determines POTENTIAL for profit;
+Income Statement reveals REALIZATION of that potential.
+
+The Big Picture:
+Banking is the art of managing the mismatch between Assets and Liabilities to generate a spread,
+while keeping enough Capital to survive mistakes.
+
+KEY TAKEAWAY: Financial statements are not just numbers; they are the scorecard of management's strategy and risk appetite.
+
+
+=== SUMMARY — PERFORMANCE & RISK ===
+
+The Profit Engine:
+DuPont Analysis teaches us ROE is not a single number.
+It is the product of Efficiency (ROA) and Leverage (EM).
+High returns must be diagnosed to ensure they are sustainable.
+
+The Risk Brakes:
+- Credit Risk: quality of loan book — watch NPLs
+- Liquidity Risk: availability of cash — watch the Funding Gap
+- Capital Risk: solvency buffer — watch Tier 1 Capital
+
+Value Creation = Return / Risk
+
+KEY TAKEAWAY: A high-performing bank is not one that takes no risks, but one that understands, prices, and manages the risks it takes.
+
+
+=== ESSENTIAL FORMULAS ===
+
+PROFITABILITY:
+- Return on Equity (ROE) = Net Income / Total Equity
+- Return on Assets (ROA) = Net Income / Total Assets
+- Net Interest Margin (NIM) = (Interest Income − Interest Expense) / Earning Assets
+
+EFFICIENCY:
+- Efficiency Ratio = Non-Interest Expense / (Net Interest Income + Non-Interest Income)
+- Burden Ratio = (Non-Interest Expense − Non-Interest Income) / Avg Assets
+
+RISK / LEVERAGE:
+- NPL Ratio = Non-Performing Loans / Total Loans
+- Equity Multiplier = Total Assets / Total Equity
+
+THE DUPONT IDENTITY:
+  ROE = Profit Margin × Asset Utilization × Equity Multiplier
+  ROE = (Net Income / Revenue) × (Revenue / Assets) × (Assets / Equity)
+
+KEY TAKEAWAY: Memorizing the formula is step one. Understanding what drives the numerator and denominator is where the analysis begins.
+
+
+=== CRITICAL DISCUSSION QUESTIONS ===
+
+1. The Leverage Trade-off
+   If Bank A has ROE of 25% but Capital Ratio of only 4%, and Bank B has ROE of 12% with Capital Ratio of 10%...
+   Which bank would you rather own? Which would you rather deposit your money in?
+
+2. Moral Hazard
+   Does the implicit government guarantee ("Too Big to Fail") encourage large banks to take excessive risks
+   compared to smaller community banks? How does this distort the market?
+
+3. The Profit Squeeze
+   In a low-interest-rate environment where NIMs are compressed, banks often turn to fee income.
+   Does this shift make banks safer (diversification) or riskier (volatile trading)?
+
+KEY TAKEAWAY: In banking, there are no solutions, only trade-offs. Every extra dollar of profit usually comes with an extra unit of risk.
+
+
+=== HOW REGULATORS EVALUATE BANKS — THE CAMELS RATING SYSTEM ===
+Regulators assign a composite rating from 1 (Best) to 5 (Worst) based on six critical components.
+Ratings are NEVER disclosed to the public to prevent bank runs.
+
+| Letter | Component | What it Measures |
+|--------|-----------|------------------|
+| C | Capital Adequacy | Cushion to absorb losses (Tier 1, CET1 Ratios) |
+| A | Asset Quality | Riskiness of loans; reserve sufficiency (NPLs, Charge-offs) |
+| M | Management | Leadership's risk understanding; internal controls (Governance) |
+| E | Earnings | Profit sustainability; ability to grow capital (ROA, ROE, NIM) |
+| L | Liquidity | Ability to meet withdrawals without fire sales (Funding sources) |
+| S | Sensitivity | Market risk impact on earnings/capital (Duration gap) |
+
+The Scale:
+1 = Strong
+2 = Satisfactory
+3 = Fair (Needs Improvement)
+4 = Marginal (Unsafe)
+5 = Critical (Failure Imminent)
+
+KEY TAKEAWAY: Management Quality (M) is often the most important factor. Good management can fix bad assets; bad management will ruin good assets.
+
+
+=== END OF LECTURE 3 & 4 / CHAPTERS 3 & 4 ===
