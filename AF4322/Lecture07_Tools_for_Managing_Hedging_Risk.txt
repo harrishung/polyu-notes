@@ -1,0 +1,552 @@
+=== AF4322 LECTURE 7: TOOLS FOR MANAGING & HEDGING AGAINST RISK ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+Covers: Chapters 7 & 9
+
+
+===========================================================
+=== PART 1: SECURITIZATION & LOAN SALES ===
+===========================================================
+
+KEY TOPICS:
+- Securitizing Loans and Other Assets
+- Sales of Loans to Raise Funds and Reduce Risk
+- Buyers and Sellers of Loan Sales
+- Factors Affecting Loan Sales Growth
+- Banking Reform in China
+- Bad Banks with Chinese Characteristics
+
+
+=== INTRODUCTION ===
+- Many issues such as credit risk and the burden of raising new capital to meet customer
+  funding needs and regulatory standards keep managers busy
+- New tools (securitizing loans, selling loans off balance sheet, standby letters of credit,
+  credit derivatives) help with risk management
+  - Control risk more effectively
+  - Open new sources of fee income
+- The 2007-2009 credit crisis showed these tools have significant limitations:
+  unexpected risks, extreme complexity that can wreak havoc on financial systems
+
+
+=== SECURITIZING LOANS AND OTHER ASSETS ===
+
+Definition: A simple idea for raising new funds where a lending institution sets aside
+a group of income-earning, relatively illiquid assets (home mortgages, credit card loans)
+and sells relatively liquid securities (financial claims) against those assets in the open market.
+Effectively: loans transformed into publicly traded securities.
+
+Key Players:
+- Originator: the lender whose loans are securitized
+- Issuer: a Special-Purpose Entity (SPE) — separated from originator so that bankruptcy
+  of originator doesn't affect credit status of pooled loans ("bankruptcy remote")
+- Credit Rating Agency: rates securities so investors know what new instruments are worth
+  (potential moral hazard problem)
+- Security Underwriter (Investment Banker): sells securities in money/capital markets
+- Trustee: ensures issuer fulfills transfer requirements and provides promised services
+- Servicer (often the originator): collects payments and passes them to trustee,
+  who then ensures investors receive timely payments
+- Credit Enhancer: provides guarantees against default
+- Liquidity Enhancer
+
+
+=== HISTORY OF SECURITIZATION ===
+Concept began in the US residential mortgage market.
+
+Three Government-Sponsored Enterprises (GSEs) improved salability of mortgage loans:
+- GNMA (Ginnie Mae) — Government National Mortgage Association
+- FNMA (Fannie Mae) — Federal National Mortgage Association
+- FHLMC (Freddie Mac) — Federal Home Loan Mortgage Corporation
+
+Note: Long-range outlook for Fannie Mae and Freddie Mac is questionable due to recent
+record defaults on home loans they traded.
+
+
+=== COLLATERALIZED MORTGAGE OBLIGATIONS (CMOs) ===
+Developed in the 1980s by Freddie Mac with First Boston Corporation (later Credit Suisse).
+
+Multi-step process:
+1. Home mortgages first pooled together
+2. GNMA-guaranteed securities issued against the loan pool
+3. Securities offered to investors globally
+4. Securities placed in a trust account off the lender's balance sheet
+5. Different classes of CMOs (tranches) issued as claims against the security pool
+
+Tranches:
+- Each tranche promises a different rate of return (coupon) and carries different risk exposure
+- Interest payments: each tranche receives entitled payments
+- Principal payments flow first to senior tranche until fully retired,
+  then to next tranche, and so on down the "waterfall" until last tranche is paid out
+- "Senior" tranches generally have shorter maturities — reduce reinvestment risk,
+  attractive to risk-averse investors
+
+
+=== TYPES OF SECURITIZED ASSETS ===
+- Residential Mortgages (the beginnings)
+- Riskier CMOs
+- Home Equity Loans
+- Automobile Loans
+- Commercial Mortgages
+- Small Business Administration Loans
+- Mobile Home Loans
+- Credit Card Receivables
+- Truck Leases
+- Computer Leases
+
+
+=== ADVANTAGES OF SECURITIZATION ===
+1. Diversifies a bank's credit risk exposure
+2. Creates liquid assets out of illiquid assets
+3. Transforms these assets into new sources of capital
+4. Allows the bank to hold a more geographically diversified loan portfolio
+5. Allows the bank to better manage interest rate risk
+6. Allows the bank to generate fee income
+
+
+=== REGULATORY CONCERNS POST 2007-2009 CRISIS ===
+Regulators looking closely at:
+1. Risk of having to come up with large amounts of liquidity in a hurry
+   (to pay investors holding asset-backed securities and cover bad loans)
+2. Risk of agreeing to underwrite asset-backed securities that cannot be sold
+3. Risk of acting as credit enhancer and underestimating loan-loss reserves
+4. Risk that unqualified trustees fail to protect investors
+5. Risk of loan servicers being unable to monitor loan performance and collect monies
+
+
+=== SALES OF LOANS TO RAISE FUNDS AND REDUCE RISK ===
+- Carried out by financial firms of widely varying sizes
+- Leading sellers: Deutsche Bank, JP Morgan Chase, Bank of America, ING Bank (Netherlands)
+- Only a minority of US depository institutions report regular and significant asset sales
+- Concentrated among residential mortgage credits and miscellaneous household loans
+- Most loans sold mature within 90 days; may be new or seasoned
+
+Mechanics:
+- Seller usually retains servicing rights — generates fee income
+- Servicer collects interest/principal from borrowers, passes proceeds to buyers
+- Servicer monitors borrower performance and adherence to loan terms
+- Most loans purchased in million-dollar units by investors with special debtor knowledge
+
+
+=== TYPES OF LOAN SALES ===
+1. PARTICIPATION LOANS
+   - Outside party purchases a loan
+   - Generally no influence over loan terms
+2. ASSIGNMENTS
+   - Ownership of loan transferred to buyer
+   - Buyer has direct claim against borrower
+3. LOAN STRIP
+   - Short-dated pieces of longer-term loans, maturing in days/weeks
+
+Most popular: Participation loans and assignments
+
+
+=== BUYERS OF LOAN SALES ===
+- Often segmented (e.g., distressed HLT loan buyers = vulture funds, investment banks, hedge funds)
+- Vulture Funds: specialized hedge funds investing in distressed loans
+
+Vulture Fund's Cycle of Profits:
+1. Poor country defaults on debt held by creditor country
+2. Vulture fund buys defaulted debt from creditor country for pennies on the dollar
+3. Vulture funds sue poor country for full amount of debt + interest + penalties
+4. Vulture funds recoup massive profits off defaulted debt from poor country
+
+Other major buyers:
+- Foreign banks (important buyer of domestic loans)
+- Insurance companies and pension funds (long-term loans)
+- Open- and Closed-End Bank Loan Mutual funds (e.g., Highland Capital Management of Dallas)
+- Nonfinancial corporations (e.g., GE Capital, AIG)
+
+
+=== SELLERS OF LOAN SALES ===
+- Major money center banks, US government, government agencies
+- Good Bank — Bad Bank Structure:
+  - Subsidiary banks specializing in handling Non-Performing Loans (NPLs)
+  - Increases value of Good Bank
+  - Allows structuring of Bad Bank to improve management incentives and operating efficiency
+  - Proposed to remove toxic assets in the crisis
+- Foreign banks (e.g., Japanese banks in California)
+- Investment Banks (Merrill Lynch, generally large HLTs)
+- US Government & Agencies (e.g., HUD)
+  - Increased due to Federal Debt Collection Improvements Act, 1996
+  - 2007-2011 housing crisis left ~820,000 severely delinquent mortgages with HUD,
+    Fannie Mae, Freddie Mac (and US taxpayers)
+
+
+=== REASONS BEHIND LOAN SALES ===
+1. Rid bank of lower-yielding assets to make room for higher-yielding assets when rates rise
+2. Increase marketability and liquidity of assets
+3. Eliminate credit and interest rate risk
+4. Generate fee income
+5. Purchasing bank diversifies loan portfolio and reduces risk
+
+
+=== RISKS IN LOAN SALES ===
+1. Best quality loans easiest to sell — may increase earnings volatility for selling bank
+2. Loans purchased from another bank can turn bad just as easily as own loans
+3. Loan sales are cyclical
+
+
+=== FACTORS AFFECTING LOAN SALES GROWTH ===
+- Access to commercial paper market
+  - Since 1987, large banks can underwrite commercial paper
+  - More smaller middle-market firms gaining direct access
+- Customer relationship effects (customers may dislike having loan sold to another party)
+- Legal concerns (fraudulent conveyance proceedings)
+
+
+=== FACTORS ENCOURAGING FUTURE LOAN SALES GROWTH ===
+- Bank for International Settlement (BIS) capital requirements
+- Market value accounting (marking to market makes loans look more like securities)
+- Asset brokerage and loan trading
+- Government loan sales
+- Credit rating of loans offered for sale
+- Purchase and sale of foreign bank loans (e.g., Goldman Sachs fund for Japan's SMFG)
+
+
+=== BANKING REFORM IN CHINA — NPL LOAN SALES ===
+
+1998-1999: The Big Four state-owned banks (SOBs) replenished capital and cleaned up
+balance sheets through capital injection, NPA stripping, financial restructuring.
+
+Four Financial Asset Management Companies (金融资产管理公司) established by
+the Ministry of Finance — one as a "bad bank" for each Big Four:
+- China Great Wall Asset Management (中国长城资产管理公司) — for ABC
+- China Orient Asset Management (中国东方资产管理公司) — for BOC
+- China Huarong Asset Management (中国华融资产管理股份有限公司) — for ICBC
+- China Cinda Asset Management (中国信达资产管理股份有限公司) — for CCB
+
+Results:
+- Four AMCs separated RMB 1,394 billion of NPLs from Big Four Banks and CDB
+- Lowered NPL ratio of Big Four Banks by an average of 10%
+- Since 2001, China gradually implemented five-category asset classification
+- Gradually lowered business tax of commercial banks
+- First round mainly technical (NPL handling, internal management) without
+  addressing in-depth systemic issues
+
+
+=== BAD BANKS WITH CHINESE CHARACTERISTICS — ONGOING TRANSFORMATION ===
+
+Asset Management Companies (AMCs):
+- "Bad banks" — important policy tool for systemic NPL problems
+- Establishment often associated with large recapitalization, bank resolutions, mergers
+- Aim to stabilize distressed banks and repair credit channel
+- Significant fiscal costs
+
+Recent developments:
+- Local AMCs set up since 2013 — addressing NPL issues at provincial level
+- 2019-2020: Chinese government repeatedly intervened to rescue ailing banks
+- 17 December 2022: CBIRC approved China Galaxy Asset Management Co., Ltd.
+  (中国银河资产管理有限责任公司) (CGAM) to commence operations
+
+Big Four SOBs:
+- ICBC, CCB, ABC, BOC accounted for 70% of total bank assets at the time
+- Each AMC was 'paired' with one Big Four bank
+- Banks initially specialized in: credit/savings, infrastructure investment,
+  agricultural finance, foreign exchange — determining initial AMC asset structure
+
+Debt-to-Equity Swap (DES) Mechanism:
+- Losses transferred from SOBs to AMCs
+- AMCs given stakes (sometimes controlling) in distressed SOBs
+- Major departure from traditional AMC purpose
+- Banks transferred bad assets at face value (without loss)
+- SOBs replaced part of bank debt obligations with equity held by AMCs
+
+
+=== KEY REASONS FOR SELLING/LIQUIDATING BAD LOANS THROUGH BAD BANK ===
+1. Use of workout specialists in managing the liquidation
+2. Improvement in good bank's reputation after removing bad assets — better access to deposit/funding markets
+3. Ability to dispose of bad assets without liquidity concerns (lack of deposits)
+4. Customize incentive agreements for managers to generate enhanced loan-sale values
+5. Increased informational symmetry about good bank's asset value
+
+
+===========================================================
+=== PART 2: ASSET-LIABILITY & INTEREST RATE RISK MANAGEMENT ===
+===========================================================
+
+KEY TOPICS:
+- Asset, Liability, and Funds Management
+- Market Rates and Interest Rate Risk
+- The Goals of Interest Rate Hedging
+- Interest-Sensitive Gap Management
+- Duration Gap Management
+
+
+=== INTRODUCTION ===
+- Even taking on risk, financial institution must protect net worth from erosion
+- Managers look at asset and liability portfolios as integrated whole
+- Asset-Liability Management (ALM) protects against business cycles and seasonal pressures
+
+
+=== ASSET-LIABILITY MANAGEMENT (ALM) ===
+A financial technique to manage mismatch of asset/liability and/or cash flow risks.
+
+Key concepts:
+- Mismatched risks: different underlying factors causing assets/liabilities to move differently
+- Cash flow matching (immunization): match asset and liability cash flows exactly
+  so any yield curve movement is irrelevant
+- Duration matching: manage mismatch when no fixed cash flows
+
+Asset-Liability Risk = Leveraged Form of Risk:
+- Small changes in assets/liabilities can significantly impact capital due to leverage
+- Banks, insurance companies, pension funds use these techniques to manage mismatched
+  asset/liability risks (especially interest rate) and ensure capital not depleted
+
+Examples of embedded options:
+- Insurance policies: Guaranteed rates, cash surrender values, policy loans, dividends/bonuses
+- Banks: Prepayment option to borrowers, overdraft, early withdrawal
+- Pension plans: Early retirement, cash-out option, defined contribution conversion
+- Assets: Callable options, prepayment options, abandon option (credit/bankruptcy)
+
+
+=== ALM TECHNIQUES AND BROADER APPLICATIONS ===
+
+Risk Assessment Techniques:
+- Gap Analysis
+- Duration Analysis
+- Monte Carlo Simulation (for complex markets)
+
+Other Strategies:
+- Use of OTC derivatives for hedging
+- Securitization techniques to remove assets/liabilities from balance sheet
+
+Broader Scope:
+- Now applied in nonfinancial industries to manage interest-rate, commodity price,
+  liquidity, and foreign exchange risks
+
+
+=== ASSET vs LIABILITY STRATEGIES ===
+
+ASSET MANAGEMENT STRATEGY (control over assets, no control over liabilities):
+- Asset allocation
+- Structured products (derivatives, swaps, credit options, interest rate options)
+- Alpha & Beta approach to asset allocation
+- Timing
+
+LIABILITY MANAGEMENT STRATEGY (control liabilities by changing rates and terms):
+- Pricing margin/reserves
+- Reinsurance / Securitization
+- Acquisition/sale of business lines
+- Redesigning/reengineering products
+- Timing
+
+
+=== SIX STEPS TO IMPLEMENT EFFECTIVE ALM ===
+1. SETTING ALM OBJECTIVES
+   - Decide objectives based on stakeholders, regulators, competition, ratings
+   - Minimize volatility of surpluses? Higher yield? Maximum risk level?
+
+2. RISK FACTORS AND CASH FLOW STRUCTURE
+   - Capture various risks and complex interactions between asset/liability cash flows
+   - Risk factors: market, interest rate, credit risks, contractual obligations like options
+
+3. AVAILABLE HEDGING SOLUTIONS
+   - Diversification reduces non-systematic risks
+   - Firm-specific risks cannot be diversified easily
+   - Evaluate types of assets, hedging instruments (derivatives, options, pricing, reinsurance),
+     capital market instruments (securitization, M&A)
+
+4. MODELING RISK FACTORS
+   - For interest rate risks, modeling yield curve is critical
+
+5. SETTING DECISION VARIABLES
+   - Insurer: asset allocation, dividends/bonuses, new business amounts, pricing
+   - Decision variables differ for various FIs
+
+6. SETTING CONSTRAINTS
+   - Heavy regulation (reserve and capital requirements)
+   - Accounting requirements (or profits) increasingly important
+   - Constraints modeled to ensure regulatory and accounting compliance
+
+
+=== ASSET AND LIABILITY COMMITTEE (ALCO) ===
+
+- Important feature in effective management of Authorized Institution's (AI) assets and liabilities
+- Most fundamental function: oversee operations relating to interest rate risk and liquidity risk
+- Ensures AI has adequate funds to meet obligations
+- Other functions depend on AI's size and asset/liability mix
+- Balanced representation needed for both balance sheet sides
+
+Composition (senior staff):
+- Chief Executive
+- Chief Financial Officer
+- Treasurer
+- Chief Credit Officer
+- Officer in charge of deposit-taking
+- (Larger banks) Division heads of corporate and retail banking
+
+Source: HKMA Supervisory Policy Manual (CG-1): Corporate Governance of Locally Incorporated AIs
+
+
+=== INTEREST RATE RISK — ONE OF THE GREATEST MANAGEMENT CHALLENGES ===
+
+Changing rates impact both balance sheet and income statement.
+
+Two key risks:
+- PRICE RISK: When rates rise, market value of bond/asset falls
+- REINVESTMENT RISK: When rates fall, coupon payments reinvested at lower rates
+
+Forces Determining Interest Rates:
+- Loanable Funds Theory
+
+Measurement of Interest Rates:
+- Yield to Maturity (YTM)
+- Bank Discount Rate
+
+Components of Interest Rates:
+- Risk-free real rate of interest
+- Various risk premiums:
+  - Default Risk
+  - Inflation Risk
+  - Liquidity Risk
+  - Call Risk
+  - Maturity Risk
+
+Interest rates = "the price of credit"
+- Demanded by lenders as compensation for use of borrowed funds
+- Expressed in percentage points and basis points (1/100 of a percentage point)
+
+
+=== YIELD TO MATURITY (YTM) ===
+The discount rate that equalizes current market value of a loan/security
+with the expected stream of future income payments it will generate.
+
+Assumes:
+- 365-day year
+- Interest income is compounded at the calculated YTM
+
+
+=== BANK DISCOUNT RATE (DR) ===
+Often quoted on short-term loans and money market securities (e.g., Treasury bills).
+
+Characteristics:
+- Ignores compounding effect
+- Based on a 360-day year
+- Uses face value of instrument to calculate yield/return
+  → makes calculations easier but theoretically incorrect
+- Purchase price is a much better base for calculating true return
+
+Formula:
+  Bank Discount Rate = [(Face Value − Purchase Price) / Face Value] × (360 / Days to Maturity)
+
+
+=== YIELD CURVES ===
+- Graphical picture of relationship between yields and maturities of securities
+- Generally created with treasury securities to keep default risk constant
+
+Shapes:
+- UPWARD: long-term rates higher than short-term rates
+- DOWNWARD: short-term rates higher than long-term rates
+- HORIZONTAL: short-term and long-term rates equal
+
+Implications for lending institutions:
+- Most banks experience POSITIVE MATURITY GAP (avg asset maturity > avg liability maturity)
+- Upward-sloping curve → revenues from longer-term assets > expenses from shorter-term liabilities
+  → positive Net Interest Margin
+- Flat or negatively sloped curve → small or negative NIM
+
+
+=== PROTECT THE NET INTEREST MARGIN (NIM) — GOAL OF HEDGING ===
+
+Most popular hedging strategy: INTEREST-SENSITIVE GAP MANAGEMENT
+
+Gap management requires analysis of maturities and repricing opportunities of:
+- Interest-bearing assets
+- Interest-bearing liabilities
+
+If excessively exposed to rate risk, match volume of repriceable assets with
+volume of repriceable liabilities during same time period.
+
+
+=== KEY GAP MEASURES ===
+
+DOLLAR IS GAP:
+  Dollar IS GAP = Interest-Sensitive Assets (ISA) − Interest-Sensitive Liabilities (ISL)
+- Positive Dollar IS GAP → asset sensitive
+- Negative Dollar IS GAP → liability sensitive
+Example: ISA = $150M, ISL = $200M → Dollar IS GAP = −$50M (liability sensitive)
+
+RELATIVE IS GAP:
+  Relative IS GAP = (ISA − ISL) / Total Assets
+- Greater than zero → asset sensitive
+- Negative → liability sensitive
+
+INTEREST SENSITIVITY RATIO (ISR):
+  ISR = ISA / ISL
+- ISR < 1 → liability-sensitive
+- ISR > 1 → asset-sensitive
+- ISR = 1 → relatively insulated from interest rate risk
+
+POSITIONS:
+- Asset Sensitive: ISA > ISL (positive gap)
+- Liability Sensitive: ISL > ISA (negative gap)
+
+
+=== KEY DECISIONS IN GAP MANAGEMENT ===
+1. Choose time period during which NIM is to be managed and length of subperiods ("maturity buckets")
+2. Choose target level for net interest margin
+3. To increase NIM: develop correct rate forecast OR reallocate earning assets/liabilities
+   to increase spread between revenues and expenses
+4. Determine volume of interest-sensitive assets and liabilities to hold
+
+
+=== FACTORS INFLUENCING NET INTEREST MARGIN ===
+1. Changes in level of interest rates
+2. Changes in spread between asset yields and liability costs
+3. Changes in volume of interest-bearing (earning) assets — expansion/contraction
+4. Changes in volume of interest-bearing liabilities used to fund earning assets
+5. Changes in mix of assets and liabilities — floating vs fixed-rate, shorter vs longer maturity,
+   higher vs lower expected yields
+
+
+=== CUMULATIVE GAP ===
+- Total dollar difference between assets and liabilities that can be repriced over a designated period
+- Useful overall measure of interest rate risk exposure
+- Allows approximate calculation of how net interest income changes with rate changes
+
+
+=== PROBLEMS WITH INTEREST-SENSITIVE GAP MANAGEMENT ===
+- Interest paid on liabilities tends to move faster than rates earned on assets
+- Rates on assets/liabilities don't move at same speed as market rates
+- Repricing point of some assets/liabilities not easy to identify
+- Does NOT consider impact of changing rates on equity positions
+
+
+=== DURATION AS A RISK-MANAGEMENT TOOL ===
+
+Definition:
+A value-weighted and time-weighted measure of maturity considering the timing of
+all cash inflows from earning assets and all cash outflows associated with liabilities.
+Measures the average maturity of a promised stream of future cash payments.
+
+Net Worth (NW) Concept:
+- NW = Value of Assets − Value of Liabilities
+- As market rates change, asset/liability values change → net worth changes
+
+
+=== PORTFOLIO THEORY INSIGHTS ===
+1. A rise in market rates causes market value (price) of fixed-rate assets and liabilities to decline
+2. Longer maturity → larger decline in market value when rates rise
+
+By equating asset and liability durations:
+- Balance average maturity of expected cash inflows (assets) with cash outflows (liabilities)
+- Stabilize / IMMUNIZE the market value of net worth
+
+
+=== KEY DURATION INSIGHT ===
+Duration measures sensitivity of market value of financial instruments to interest rate changes.
+
+Percentage change in market price = Duration × Relative change in interest rates (for that asset/liability)
+
+
+=== CONVEXITY ===
+Relationship between asset's price change and yield/rate change.
+
+Definition: presence of a NONLINEAR relationship between changes in asset's price and changes in market rates.
+
+Properties:
+- A number to aid portfolio managers in measuring/controlling market risk
+- An asset/portfolio with low duration AND low convexity → relatively small market risk
+- Convexity INCREASES with duration of an asset
+- Tells us: rate of change in asset's price for a given rate change varies with prevailing rate level
+
+
+=== END OF LECTURE 7 ===
