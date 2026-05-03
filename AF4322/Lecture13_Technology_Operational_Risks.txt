@@ -1,0 +1,472 @@
+=== AF4322 LECTURE 13: TECHNOLOGY AND OTHER OPERATIONAL RISKS ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+
+
+===========================================================
+=== SOUND RISK MANAGEMENT ===
+===========================================================
+
+=== ELEMENTS OF A SOUND RISK MANAGEMENT SYSTEM ===
+(Source: HKMA Supervisory Policy Manual – IC1)
+
+CORE PILLARS OF THE FRAMEWORK:
+1. Risk Governance
+2. Risk Appetite Framework (RAF)
+3. Three Lines of Defence
+
+1. RISK GOVERNANCE:
+Formal structures defining Board & Senior Management responsibilities for
+strategy, risk appetite, and control.
+- Includes a clear segregation of duties for risk management and control
+
+2. RISK APPETITE FRAMEWORK (RAF):
+Policies & processes to establish, communicate, and monitor the institution's
+risk tolerance.
+
+CRITICAL SUCCESS FACTORS:
+1. Top-Down Tone: Set by an engaged Board and Senior Management
+2. Strong Risk Culture: Promoting awareness, open communication, and accountability
+3. Firm-Wide Application: RM must be embedded across all business activities and entities
+
+
+=== THREE LINES OF DEFENCE ===
+
+FIRST LINE OF DEFENCE — Business Units:
+- Role: Own and manage risk daily
+- Responsibility: Identify, assess, and report risks within approved policies and limits
+
+SECOND LINE OF DEFENCE — Independent Risk & Compliance Functions:
+- Risk Management Unit: Oversees risk-taking, sets frameworks, monitors limits,
+  reports independently
+- Compliance Unit: Ensures adherence to laws, regulations, and internal policies
+
+THIRD LINE OF DEFENCE — Internal Audit Function:
+- Role: Provides independent assurance
+- Responsibility: Audits effectiveness of the entire RM framework and the first two lines
+
+
+=== EIGHT + ONE KEY RISK CATEGORIES (HKMA INHERENT RISKS) ===
+
+1. CREDIT RISK: Risk of borrower or counterparty default
+2. INTEREST RATE RISK: Risk from adverse movements in interest rates affecting the banking book
+3. MARKET RISK: Risk of losses from movements in market prices (FX, equities, commodities)
+4. LIQUIDITY RISK: Risk of being unable to meet obligations as they fall due
+5. OPERATIONAL RISK: Risk of loss from inadequate processes, people, systems, or external events
+6. LEGAL RISK: Risk of loss from legal actions, penalties, or unenforceable contracts
+7. REPUTATION RISK: Risk of loss from damage to public perception and trust
+8. STRATEGIC RISK (Business Risk): Risk from poor business decisions, execution, or failure to adapt
+
+
+===========================================================
+=== OPERATIONAL RISK ===
+===========================================================
+
+=== DEFINITION ===
+Operational risk is present in virtually all bank transactions and activities.
+
+Defined by Basel Committee under Basel II as:
+"the risk of loss resulting from inadequate or failed internal processes, people
+and systems or from external events"
+
+This definition INCLUDES legal risk but EXCLUDES strategic and reputational risk.
+
+(Source: HKMA OR-1 — https://www.hkma.gov.hk/media/eng/doc/key-functions/banking-stability/supervisory-policy-manual/OR-1.pdf)
+
+
+=== SOURCES OF OPERATIONAL RISK (BIS) ===
+(Source: https://www.bis.org/publ/bcbs195.pdf)
+
+1. PEOPLE
+2. SYSTEMS AND TECHNOLOGY
+3. PROCESSES AND POLICIES
+4. EXTERNAL EVENTS
+
+Note: These categories are related to one another to a certain degree
+and are partially overlapping.
+
+
+=== 1. PEOPLE ===
+Examples:
+- Intentional and illegal breaches of policies and rules
+- Sloppy execution
+- Lack of knowledge and training
+- Failures to comply with a professional obligation to clients
+- Improper business and market practices
+
+
+=== 2. SYSTEMS AND TECHNOLOGY ===
+Examples:
+- Hardware failure
+- Software failure
+- Systems failure
+- Utility outage
+- Business disruptions
+
+CASE STUDY — DBS BANK DISRUPTIONS (2023):
+DBS CEO Piyush Gupta said the bank is "deeply sorry" for the digital disruptions.
+DBS experienced major disruptions to banking services on:
+- 29 March 2023
+- 5 May 2023
+- 26 September 2023
+- 14 October 2023
+- 20 October 2023
+
+MAS RESPONSE (Singapore, 1 November 2023):
+- MAS imposed a SIX-MONTH PAUSE on DBS Bank's non-essential IT changes
+- DBS not allowed to acquire new business ventures during this period
+- DBS not allowed to reduce size of branch and ATM networks in Singapore
+
+April 2023: MAS directed DBS to engage independent third-party for comprehensive review.
+Shortcomings identified in:
+- System resilience
+- Incident management
+- Change management
+- Technology risk governance and oversight
+
+Following independent review, DBS set out a technology resiliency roadmap
+implemented in phases (changes to system architecture design take more time).
+
+MAS reviewed and was satisfied with scope and planned measures.
+DBS will hold senior management accountable for lapses; board will enhance
+governance approach to oversee implementation.
+
+MAS retained multiplier of 1.8× to DBS's risk weighted assets for operational risk
+(imposed after March and May 2023 incidents).
+
+It will take up to 24 months for DBS to put in place planned structural changes
+to improve resilience of digital banking services. In the meantime, disruptions may
+still occur — MAS expects DBS to promptly recover services and communicate to
+customers in a clear and timely manner.
+
+
+=== 3. PROCESSES AND POLICIES ===
+Examples:
+- Aggressive sales targets and incentives
+- Unclear and sometimes contradictory procedures
+- Employment discrimination
+
+SIX GUIDING PRINCIPLES OF INCENTIVE DESIGN
+(for reinforcing good customer and conduct outcomes):
+a. Clear prioritisation of customer outcomes
+b. Development of an aligned system
+c. Focusing on intrinsic motivators
+d. Wise use of technology
+e. Close connection between leaders and staff
+f. Minimising potential misconduct and mis-selling behaviours
+
+SIXTEEN SOUND PRACTICES (Build Sound Practices):
+1. Rewarding investment in long-term relationships
+2. Aligning internal policy with values
+3. Reinforcing customer outcomes over solely fulfilling customer requests
+4. Increased focus on customer-oriented behaviour, not sales
+5. Supporting staff to understand customer needs
+6. Customer outcomes over process compliance
+7. Integrating compliance requirements into system design
+8. Fair and objective monitoring of conduct
+9. Responding to staff feedback
+10. Rewarding non-financial performance
+11. Reducing incentive system complexity
+12. Setting dynamic targets
+13. Managing behavioural risk from tactical incentive programs
+14. Clear and appropriate consequences for undesired behaviour
+15. Considering diverse perspectives
+16. Amplifying good conduct with social rewards
+
+
+=== 4. EXTERNAL EVENTS ===
+Examples:
+- Natural disasters
+- Terrorist attacks
+- External theft and fraud
+- Robbery
+- Cybercrime
+- Regulatory changes
+
+
+=== OPERATIONAL RISK MANAGEMENT FRAMEWORK (ORMF) ===
+
+According to BIS, key elements of the ORMF are:
+1. Governance
+2. The risk management environment
+3. Information and communication technology
+4. Business continuity planning
+5. The role of disclosure
+
+An effective ORMF can be achieved through a process involving:
+- Governance structure
+- Operational risk identification, assessment, measurement methodologies
+- Policies, procedures, and processes for mitigating, controlling, monitoring,
+  and reporting of operational risks
+
+
+===========================================================
+=== INFORMATION TECHNOLOGY RISKS ===
+===========================================================
+
+According to Deloitte, the most significant risks in technology in financial services:
+- Strategic risk of Information Technology (IT)
+- Cybersecurity risk
+- Technology vendor and third-party risk
+- Data management risk
+- Risk of ineffective management
+
+
+=== STRATEGIC RISK OF IT ===
+Risk emanating from errors in IT strategy stands among the top threats a Financial Institution faces.
+
+Examples:
+- Not embracing new technology
+- Not upgrading legacy systems
+- Not integrating IT and business strategies
+- Investing in the wrong technology
+
+2019 Gartner CIO Survey: highest-ranking technology expected to be game-changing
+in the financial sector is AI and machine learning.
+
+
+=== CYBERSECURITY RISK ===
+
+Methods of attack:
+- PHISHING: a primary method of breaching data systems
+- WATERING HOLES: infecting websites frequently visited by targeted people
+- DENIAL-OF-SERVICE (DoS) ATTACKS: deployment of large numbers of internet bots
+  (hundreds to hundreds of thousands)
+
+Example — DDoS Attack:
+On March 12, 2012, six U.S. banks were targeted by a wave of DDoS attacks:
+- Bank of America
+- JPMorgan Chase
+- U.S. Bank
+- Citigroup
+- Wells Fargo
+- PNC Bank
+
+
+=== TECHNOLOGY VENDOR AND THIRD-PARTY RISK ===
+
+Third-party arrangements can help management achieve strategic objectives:
+- Lower costs
+- Increased revenues
+- Expansion of customer base or product capabilities
+
+Financial Institutions must develop and implement proper due diligence,
+contracting, and monitoring procedures for ALL third parties, including
+technology vendors engaged by IT.
+
+
+=== DATA MANAGEMENT RISK ===
+
+Definition:
+Exposure to loss of value or trust caused by issues or limitations in an
+organization's ability to acquire, store, transform, move, and use its data assets.
+
+Management:
+- Managed via advanced analytics techniques and leveraging cognitive technologies
+
+Regulatory Example:
+- EU's issuance of the General Data Protection Regulation (GDPR)
+
+
+=== RISK OF INEFFECTIVE RISK MANAGEMENT ===
+
+Financial Institutions traditionally pursue a THREE LINES OF DEFENSE model:
+1. Product and process owners — identify and manage risk
+2. Risk and compliance — provides risk management structure and independent oversight of first line
+3. Internal audit — provides independent assurance on effectiveness of first two lines
+   to the board and senior management
+
+
+===========================================================
+=== EFFECTS OF TECHNOLOGY ON REVENUES AND COSTS ===
+===========================================================
+
+=== TECHNOLOGY INVESTMENT IS RISKY ===
+
+- Potentially negative NPV projects due to uncertainties over revenues and costs
+  and how quickly rivals will mimic or copy any innovation
+- Agency conflicts may result in managers undertaking growth-oriented investments
+  to increase a Financial Institution's size
+
+PROFITABILITY OF PRODUCT INNOVATION:
+
+NEGATIVELY related to:
+- Size of the initial setup and development costs
+- Financial Institution's cost of capital
+
+POSITIVELY related to:
+- Size of the stream of expected net cash flows from selling the services
+
+
+=== TECHNOLOGY AND REVENUES ===
+- Allows cross-selling of new and existing products to existing customers
+- Increases the rate of innovation of new financial products
+  (Growth areas: advanced data analytics, blockchain technology, FinTech challengers)
+- Service quality and convenience
+
+
+=== TECHNOLOGY AND COSTS ===
+For larger Financial Institutions, scale and array of potential technology investments is greater.
+
+Potential cost advantage:
+- Economies of scale
+- Potential elimination of smaller banks?
+
+Risks:
+- Potential excess capacity, integration and cost control problems
+- Diseconomies of scale
+
+
+=== ECONOMIES OF SCOPE / DISECONOMIES OF SCOPE ===
+
+Economies of Scope:
+- Joint use of inputs may provide synergistic cost savings in producing multiple products
+- Financial Institution size may affect potential gains and losses from IT investments
+
+Diseconomies of Scope:
+- Costs of joint production of services are HIGHER than if independently produced
+
+
+===========================================================
+=== TECHNOLOGY AND EVOLUTION OF THE PAYMENTS SYSTEM ===
+===========================================================
+
+US Payment Statistics (2017):
+- Checks accounted for 10.6% of noncash transactions in the US
+- E-money payments represented 2.6% of noncash transactions and 0.1% of dollar value
+
+
+=== US PAYMENTS SYSTEM ===
+- US reluctant to abandon the use of checks
+
+Wire Transfer Systems:
+- FedWire
+- Clearing House Interbank Payments System (CHIPS)
+
+Combined value: often more than US$4.6 trillion per day.
+
+
+=== WIRE TRANSFER SYSTEM RISKS ===
+
+DAYLIGHT OVERDRAFT RISK:
+- FedWire settlement at 6:30 Eastern Time (ET)
+- Banks commonly run daylight overdrafts
+- 50 basis point fee for daylight overdraft
+- Until 1993, the Fed did not charge banks an explicit interest rate for daylight overdrafts
+- Under Regulation J: Fed guarantees payment finality of wire transfer messages
+  → Fed bears credit risk of bank failures
+- Regulation F: sets exposure limits to individual correspondents
+
+INTERNATIONAL TECHNOLOGY TRANSFER RISK
+
+CRIME AND FRAUD RISK:
+- Fraud risk, especially from Financial Institution employees
+- Riggs National Bank transactions with Saudis
+- Costs of complying with Patriot Act
+  (USA PATRIOT Act = Uniting and Strengthening America by Providing Appropriate Tools
+  Required to Intercept and Obstruct Terrorism Act)
+
+
+=== REGULATORY RISK ===
+
+Technology facilitates avoidance of regulation by locating in least regulated state or country.
+
+Examples:
+- Citigroup credit card operations in South Dakota
+- South Dakota and Delaware most liberal in usury ceilings and regulatory controls
+- Cayman Islands is the world's eighth biggest banking center
+
+
+=== ADDITIONAL RISKS ===
+
+TAX AVOIDANCE:
+- Internal pricing mechanisms minimize overall US tax burden and maximize foreign tax credits
+- Example: Credit Suisse Group
+
+COMPETITION RISK:
+- Increased competition with nontraditional financial service suppliers
+- Car finance companies provide about a quarter of the market for car leases and loans
+- Airlines are inundating customers with credit card offers
+
+
+===========================================================
+=== REGULATORY ISSUES ===
+===========================================================
+
+OPERATIONAL RISK AND FINANCIAL INSTITUTION INSOLVENCY:
+- 1999 Basel Committee on Banking Supervision noted importance of operational risks
+- Proposed 3 methods for Depository Institutions to calculate required capital:
+  1. Basic Indicator Approach
+  2. Standardized Approach
+  3. Advanced Measurement Approach
+
+CONSUMER PROTECTION
+
+
+=== OTHER CONCERNS ===
+
+- Efforts to expand consumer acceptance of web-based services frustrated by scams
+  (Identity theft concerns)
+- Vulnerability of online credit card usage
+
+
+===========================================================
+=== APPENDIX: BIS PRINCIPLES FOR SOUND MANAGEMENT OF OPERATIONAL RISK ===
+===========================================================
+
+PRINCIPLE 1:
+The board of directors should take the lead in establishing a strong risk management culture.
+The board and senior management should establish a corporate culture guided by strong
+risk management that supports and provides appropriate standards and incentives for
+professional and responsible behaviour. It is the responsibility of the board to ensure
+that a strong operational risk management culture exists throughout the whole organisation.
+
+PRINCIPLE 2:
+Banks should develop, implement and maintain a Framework that is fully integrated into
+the bank's overall risk management processes. The Framework chosen by an individual bank
+will depend on its nature, size, complexity and risk profile.
+
+PRINCIPLE 3:
+The board of directors should establish, approve and periodically review the Framework.
+The board should oversee senior management to ensure policies, processes and systems
+are implemented effectively at all decision levels.
+
+PRINCIPLE 4:
+The board should approve and review a risk appetite and tolerance statement for
+operational risk that articulates the nature, types and levels of operational risk
+the bank is willing to assume.
+
+PRINCIPLE 5:
+Senior management should develop for board approval a clear, effective and robust
+governance structure with well-defined, transparent and consistent lines of responsibility.
+Senior management is responsible for consistently implementing and maintaining policies,
+processes and systems for managing operational risk in all material products, activities,
+processes and systems consistent with the risk appetite and tolerance.
+
+PRINCIPLE 6:
+Senior management should ensure the identification and assessment of operational risk
+inherent in all material products, activities, processes and systems to ensure inherent
+risks and incentives are well understood.
+
+PRINCIPLE 7:
+Senior management should ensure there is an approval process for all new products,
+activities, processes and systems that fully assesses operational risk.
+
+PRINCIPLE 8:
+Senior management should implement a process to regularly monitor operational risk profiles
+and material exposures to losses. Appropriate reporting mechanisms should be in place at
+the board, senior management, and business line levels to support proactive management.
+
+PRINCIPLE 9:
+Banks should have a strong control environment that utilizes policies, processes and systems;
+appropriate internal controls; and appropriate risk mitigation and/or transfer strategies.
+
+PRINCIPLE 10:
+Banks should have business resiliency and continuity plans in place to ensure an ability
+to operate on an ongoing basis and limit losses in the event of severe business disruption.
+
+PRINCIPLE 11:
+A bank's public disclosures should allow stakeholders to assess its approach to
+operational risk management.
+
+
+=== END OF LECTURE 13 ===
