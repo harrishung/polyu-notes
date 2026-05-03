@@ -1,0 +1,375 @@
+=== AF4322 LECTURE 9: LENDING POLICIES & PROCEDURES — MANAGING CREDIT RISK ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+Covers: Chapter 16
+
+KEY TOPICS:
+- Types of Loans
+- Regulation of Lending
+- Steps in the Lending Process
+- Loan Origination Process Standards
+- Credit Analysis
+- Loan Review and Loan Workouts
+
+
+=== INTRODUCTION ===
+- Principal reason many financial firms are issued charters is to MAKE LOANS
+- Lenders expected to supply credit for legitimate business and consumer needs at reasonable prices
+- Loans support growth of new businesses and jobs in lender's market area
+- Loans convey information to marketplace about a borrower's credit quality
+- The lending process bears careful monitoring at all times
+
+
+=== TYPES OF LOANS ===
+
+Categories:
+1. Individuals (Consumer) Loans
+2. Real Estate Loans
+3. Financial Institution Loans
+4. Agriculture Loans
+5. Commercial and Industrial (C&I) Loans
+6. Miscellaneous Loans
+7. Lease Financing Receivables
+
+Largest category by dollar volume: Real Estate Loans, followed by Loans to Individuals, then C&I Loans.
+
+
+=== CONSUMER LOANS (Personal, Auto, Credit Card) ===
+
+Non-revolving loans:
+- Automobile, mobile home, personal loans
+
+Revolving loans:
+- Credit card debt (Visa, MasterCard)
+- Proprietary cards (Sears, AT&T)
+
+Risks affected by competitive conditions and usury ceilings.
+Bankruptcy Reform Act of 2005.
+
+High default rates during financial crisis highlighted importance of risk evaluation
+prior to making credit decisions.
+
+
+=== RETAIL CREDIT DECISIONS ===
+- Usually a simple accept/reject decision rather than rate adjustments
+- Credit rationing
+- If accepted, customers sorted by loan quantity
+- For mortgages: discrimination occurs via loan-to-value rather than adjusting rates
+
+
+=== FACTORS DETERMINING THE GROWTH AND MIX OF LOANS ===
+
+1. CHARACTERISTICS OF THE MARKET AREA
+   - Economic Conditions: employment, income levels, business activity
+   - Demographics: population size, age, income → drives mortgage vs personal loan demand
+   - Industry Presence: drives loan type demand (commercial in industrial areas)
+   Examples:
+   - USA: Silicon Valley tech industry drives business loan demand for startups
+   - Hong Kong: Financial hub status leads to high corporate loan and trade financing demand
+
+2. LENDER SIZE
+   - Resource Availability: larger lenders → more diverse products, larger amounts
+   - Risk Appetite: smaller lenders may focus on niche markets
+   - Wholesale lenders vs retail credit
+
+3. EXPERIENCE AND EXPERTISE OF MANAGEMENT
+
+4. LOAN POLICY
+   Examples:
+   - USA: 2008 financial crisis — banks tightened policies, reducing subprime mortgages
+   - Hong Kong: HKMA sets guidelines on mortgage lending (loan-to-value ratios)
+
+5. EXPECTED YIELD OF EACH TYPE OF LOAN
+   - Profitability: prioritize higher-yield loans for max returns
+   - Risk-Return Balance
+   Examples:
+   - USA: Credit card loans have high yields → Citibank aggressively markets them
+   - Hong Kong: High-yield personal loans popular with money lenders (UA Finance, Promise HK)
+
+6. REGULATION
+   - Compliance Requirements
+   - Capital Requirements
+   - Consumer Protection Laws
+   Examples:
+   - USA: Dodd-Frank Act introduced stricter mortgage lending regulations
+   - Hong Kong: HKMA property lending regulations to prevent housing bubbles
+
+General rule: A lending institution should make the types of loans for which it
+is the most efficient producer.
+
+
+=== REGULATION OF LENDING ===
+
+Key examples of US lending regulations:
+- Total real estate loans by US national bank cannot exceed bank's capital and surplus
+  OR 70% of total time and savings deposits, whichever is greater
+- Unsecured loan to single customer normally cannot exceed 15% of single national bank's
+  unimpaired capital and surplus account (LEGAL LENDING LIMIT)
+
+All loans subject to examination and review.
+
+
+=== KEY LENDING REGULATIONS ===
+
+COMMUNITY REINVESTMENT ACT (CRA) of 1977:
+- Selected lenders must make "an affirmative effort" to meet credit needs of individuals
+  and businesses in their trade territories
+- No areas of local community discriminated against in seeking credit access
+
+EQUAL CREDIT OPPORTUNITY ACT of 1974:
+- No individual denied credit because of race, sex, religious affiliation, age,
+  or receipt of public assistance
+
+INTERNATIONAL LENDING AND SUPERVISION ACT:
+- Requires US banks to publicly disclose credit exposures to a single country exceeding
+  15% of primary capital OR 0.75% of total assets, whichever is smaller
+- Imposes restrictions on fees lenders may charge troubled international borrowers
+  to restructure a loan
+
+
+=== UNIFORM FINANCIAL INSTITUTIONS RATING SYSTEM (CAMELS) ===
+
+Each banking firm assigned a numerical rating based on quality of asset portfolio.
+Composite rating from 1 (Best) to 5 (Worst), based on six critical components.
+Ratings NEVER disclosed to public to prevent bank runs.
+
+| Letter | Component | Question |
+|--------|-----------|----------|
+| C | Capital Adequacy | Enough cushion to absorb losses? (Tier 1, CET1 Ratios) |
+| A | Asset Quality | How risky are loans? Reserves sufficient? (NPLs, Charge-offs) |
+| M | Management | Does leadership understand risks? Effective controls? (Governance) |
+| E | Earnings | Profits sustainable and sufficient to grow capital? (ROA, ROE, NIM) |
+| L | Liquidity | Can bank meet withdrawals without fire sales? (Funding sources) |
+| S | Sensitivity | How does market risk affect earnings/capital? (Duration gap) |
+
+Scale:
+1 = Strong
+2 = Satisfactory
+3 = Fair (Needs Improvement)
+4 = Marginal (Unsafe)
+5 = Critical (Failure Imminent)
+
+
+=== ASSET QUALITY CLASSIFICATION ===
+- Criticized loans
+- Scheduled loans
+- Adversely classified loans:
+  - Substandard loans
+  - Doubtful loans
+  - Loss loans
+
+
+=== ESTABLISHING A GOOD WRITTEN LOAN POLICY ===
+
+What should it contain?
+1. Goal statement for the entire loan portfolio
+2. Specification of lending authority of each loan officer and loan committee
+3. Lines of responsibility in making assignments and reporting information
+4. Operating procedures for soliciting, evaluating, and making loan decisions
+5. Required documentation for all loans
+6. Lines of authority for maintaining and reviewing credit files
+7. Guidelines for taking, evaluating, and perfecting loan collateral
+8. Procedures for setting loan rates and fees and terms for repayment
+9. Statement of quality standards applicable to all loans
+10. Statement of preferred upper limit for total loans outstanding
+11. Description of lending institution's principal trade area
+12. Procedures for detecting and working out problem loan situations
+
+
+=== STEPS IN THE LENDING PROCESS ===
+1. Finding Prospective Loan Customers
+2. Evaluating a Customer's Character and Sincerity of Purpose
+3. Making Site Visits and Evaluating a Customer's Credit Record
+4. Evaluating a Prospective Customer's Financial Condition
+5. Assessing Possible Loan Collateral and Signing the Loan Agreement
+6. Monitoring Compliance with the Loan Agreement and Other Customer Service Needs
+
+
+=== LOAN ORIGINATION PROCESS STANDARDS ===
+
+1. KNOW YOUR CUSTOMER (KYC)
+   Common practice in retail business (credit card and mortgage applications)
+
+2. LOAN SECURITY
+   - Collateral acceptable for a loan should at all times be of sufficient liquidity and value
+   - Bank must ensure a sufficient margin over and above the loan value
+
+3. SUBPRIME-LENDING RESTRICTIONS
+   - Assets without collateral or insufficient collateral subject to restrictions and severe limits
+   - Reflects possibility of economic downturn
+
+
+=== CREDIT ANALYSIS — THE 6 Cs OF CREDIT ===
+
+Is the Borrower Creditworthy?
+
+a. CHARACTER: specific purpose of loan and serious intent to repay
+b. CAPACITY: legal authority to sign a binding contract
+c. CASH: ability to generate enough cash to repay the loan
+d. COLLATERAL: adequate assets to support the loan
+e. CONDITIONS: economic conditions faced by the borrower
+f. CONTROL: does the loan meet the written loan policy, and how would changing
+   laws/regulations affect it?
+
+
+=== COMMON FINANCIAL COVENANTS ===
+
+a. DEBT SERVICE COVERAGE RATIO (DSR / DSCR)
+   - Ratio of income less expenses to interest and principal payments
+   - Main measure to determine if cash flow is sufficient to service debt
+
+b. LOAN LIFE COVERAGE RATIO (LLCR)
+   - Net present value of cash flow available for debt servicing to total debt
+   - Like DSCR but useful in project finance — analysis covers the term of the transaction
+   - More difficult to monitor if project cash flows are inconsistent
+
+c. LOAN TO VALUE RATIO (LTV)
+   - Central to residential mortgage lending
+   - Allows banks to gauge how far prices can fall before loss is incurred
+     should they foreclose and liquidate the property
+
+
+=== STRUCTURING THE LOAN AGREEMENT ===
+
+Can the Loan Agreement Be Properly Structured and Documented?
+- Draft a loan agreement meeting borrower's funding need with comfortable repayment schedule
+- If a major borrower gets into trouble, lender may be in trouble too
+- Proper accommodation may involve lending more or less than requested over longer/shorter period
+
+
+=== PERFECTING THE CLAIM ===
+
+Can the Lender Perfect Its Claim against the Borrower's Earnings and Pledged Collateral?
+
+Reasons for Taking Collateral:
+- If borrower cannot pay, pledge gives lender right to seize and sell those assets
+- Provides psychological advantage over the borrower
+
+Types of Collateral:
+- Accounts Receivables
+- Factoring
+- Inventory
+- Real Property
+- Personal Property
+- Personal Guarantees
+
+
+=== CREDIT ANALYSIS — INTERNAL RATINGS ===
+
+Ratings act as basis for bank credit approval, pricing, monitoring, and loan loss provisioning.
+
+Two dimensions of ratings:
+1. Borrower propensity to default
+2. Transaction characteristics (products, terms, seniority, collateral)
+
+BASEL I:
+- Standardized Approach: banks use ratings developed by external rating agencies
+- Loan pricing model based on capital required and target return on that capital
+
+BASEL II:
+- Banks meeting strict criteria permitted to use internal ratings to calculate
+  regulatory capital for credit risk
+- Internal ratings can be more sensitive to risk in bank's portfolio
+- May incorporate supplementary customer information not available to external agencies
+- Banks have incentive to refine internal credit risk management/measurement
+- Credit ratings used to determine risk weightings under Standardized Approach
+
+
+=== PARTS OF A TYPICAL LOAN AGREEMENT ===
+1. The Promissory Note
+2. Loan Commitment Agreement
+3. Collateral
+4. Covenants:
+   - Affirmative
+   - Negative
+5. Borrower Guaranties or Warranties
+6. Events of Default
+
+
+=== LOAN REVIEW ===
+
+1. Carry out reviews of all types of loans on a periodic basis
+2. Structure the loan review process:
+   - Record of borrower payments
+   - Quality and condition of collateral
+   - Completeness of loan documentation
+   - Evaluation of borrower's financial condition
+   - Assessment as to whether loan fits with lender's loan policies
+3. Review largest loans most frequently
+4. Conduct more frequent reviews of troubled loans
+5. Accelerate the loan review schedule if economy or industry experiences problems
+
+
+=== LOAN WORKOUTS ===
+
+Loan workout = the process of recovering funds from a problem loan situation.
+
+
+=== WARNING SIGNS OF PROBLEM LOANS ===
+a. Unusual or unexpected delays in receiving financial statements
+b. Sudden changes in accounting methods
+c. Restructuring debt or eliminating dividend payments / changes in credit rating
+d. Adverse changes in stock price
+e. Losses in one or more years
+f. Adverse changes in capital structure
+g. Deviations in actual sales from projections
+h. Unexpected or unexplained changes in deposits
+
+
+=== INDICATORS OF WEAK/TROUBLED LOANS (FDIC Manual) ===
+- Irregular or delinquent loan payments
+- Frequent alterations in loan terms
+- Poor loan renewal record (little reduction of principal at renewal)
+- Unusually high loan rate (compensating for high risk)
+- Unusual buildup of borrower's accounts receivable and/or inventories
+- Rising debt-to-net-worth (leverage) ratio
+- Missing documentation (especially financial statements)
+- Poor-quality collateral
+- Reliance on reappraisals of assets to increase customer's net worth
+- Absence of cash flow statements or projections
+- Customer reliance on non-recurring sources of funds to meet loan payments
+  (e.g., selling buildings or equipment)
+
+
+=== INDICATORS OF INADEQUATE/POOR LENDING POLICIES ===
+- Poor selection of risks among borrowing customers
+- Lending money contingent on possible future events (e.g., a merger)
+- Lending money because customer promises a large deposit
+- Failure to specify a plan for loan liquidation
+- High proportion of loans outside the lender's trade territory
+- Incomplete credit files
+- Substantial self-dealing credits (loans to insiders — employees, directors, stockholders)
+- Tendency to overreact to competition (poor loans to keep customers from competitors)
+- Lending money to support speculative purchases
+- Lack of sensitivity to changing economic conditions
+
+
+=== STEPS WHEN A LOAN IS IN TROUBLE ===
+1. Don't forget the goal: MAXIMIZE FULL RECOVERY OF FUNDS
+2. Rapid detection and reporting of problems is essential
+3. Loan workout should be SEPARATE from the lending function
+4. Consult with the customer quickly regarding possible options
+5. Estimate resources available to collect on loan
+6. Conduct tax and litigation search
+7. Evaluate the quality and competence of management
+8. Consider all reasonable alternatives
+
+PREFERRED OPTION: Seek a revised loan agreement.
+
+
+=== CREDIT DERIVATIVES — RISKS ===
+
+Contracts for Reducing Credit Risk Exposure on the Balance Sheet.
+
+Risks Associated with Credit Derivatives:
+1. Partners in swap or option contract may fail to perform
+2. Smaller volume — markets are thinner and more volatile
+3. Legal issues
+4. Regulatory concerns
+5. Lessons of recent Credit Crisis:
+   - Securitized assets and credit swaps are complex instruments — difficult to value
+     and measure risk exposures correctly
+   - These derivatives operate in cyclically sensitive markets
+   - Contagion effect cannot be stopped without active government intervention
+
+
+=== END OF LECTURE 9 ===
