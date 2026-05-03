@@ -1,0 +1,406 @@
+=== AF4322 LECTURE 12: INVESTMENT BANKING, INSURANCE AND SOURCES OF FEE INCOMES ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+Covers: Chapter 14
+
+KEY TOPICS:
+- The Ongoing Search for Fee Income
+- Investment Banking Services
+- Mutual Funds and Other Investment Products
+- Trust Services and Insurance Products
+- Benefits of Product-Line Diversification
+- Economies of Scope and Scale
+- Information Flows and Customer Privacy
+
+
+=== INTRODUCTION ===
+- Financial institutions face struggle to attract funds for loans/investments
+- When deposit growth slows, managers pursue new sources of funds and revenue
+- IMPORTANT GROWTH SOURCE: FEE INCOME
+
+Fee Income = revenues from charging customers for specific services:
+- Monthly service charges on transaction accounts
+- Insurance commissions (homes, businesses)
+- Membership fees for credit/debit cards
+- Financial advisory fees
+- "Swipe fees" at point of sale (POS)
+
+
+=== DRIVERS OF THE FEE INCOME PUSH ===
+
+1. Desire to supplement traditional sources of funds (deposits) when inadequate
+2. Lower production costs by offering multiple services using same facilities/resources
+   (ECONOMIES OF SCOPE)
+3. Offset higher production costs by passing more cost to customers (old AND new services)
+4. Reduce overall risk by finding new revenue streams not highly correlated with traditional ones
+5. Promote CROSS-SELLING of traditional and new services to enhance revenue and net income
+
+
+=== SALES OF INVESTMENT PRODUCTS ===
+
+Common products:
+- Foreign currency
+- Stock trading
+- Unit Trusts and Bonds
+- Structured Products: Structured Deposits, Equity Linked Investments (ELI), Equity Linked Notes (ELN)
+- Precious Metals Trading Services (gold, silver, etc.)
+
+
+=== EQUITY-LINKED INVESTMENTS (ELI) ===
+
+Definition:
+- Products combining notes/deposits with stock options
+- Allow bull, bear, or strangle (trading range) bet
+- Return based on performance of single equity, basket, or index
+
+Forms:
+- Equity-Linked Notes (ELN)
+- Equity-Linked Deposits (ELD)
+- Equity-Linked Contracts (ELC)
+(Per SFC 2003)
+
+ELI Mechanics — Knock-In Triggered (Daily Knock-In Observation):
+If closing price is lower than exercise price on expiry AND knock-in is triggered,
+investor receives:
+(a) PHYSICAL SETTLEMENT
+   - Delivery of worst-performing reference asset (fractional share = cash)
+   - Potential cash dividend amount
+OR
+(b) CASH SETTLEMENT
+   - Cash equivalent of physical settlement amount
+   - Potential cash dividend amount
+
+WORST-CASE SCENARIO:
+- Closing price of settlement stock drops to ZERO
+- Investor could lose 100% of initial investment
+
+
+=== SFC PROTECTION FOR ELI INVESTORS ===
+
+1. KNOW YOUR CUSTOMER:
+   Licensed/registered persons must establish client's financial situation, investment
+   experience, and objectives to assess ability to bear financial risks/losses
+
+2. GIVE REASONABLE ADVICE:
+   When recommending ELI, ensure clients are informed of and fully understand
+   financial risks and potential losses
+
+3. PROVIDE RISK DISCLOSURE STATEMENT:
+   Provide pertinent information regarding ELI; term sheets and risk disclosure
+   in addition to minimum content requirements in Code of Conduct
+
+4. DECLARATION BY STAFF AND CONFIRMATION BY CLIENT:
+   Sign and date a declaration confirming risk disclosure statement provided in client's
+   chosen language; client invited to read, ask questions, and take independent advice
+
+
+=== SALES OF INVESTMENT BANKING SERVICES ===
+
+- One prominent but volatile banking service
+- Many leading US banks acquired or formed investment banking affiliates to serve
+  corporations and governments globally
+- Example: JP Morgan Chase's acquisition of Bear Stearns
+
+JP Morgan M&A History (highlights):
+- 1799: The Manhattan Company founded
+- 1817: The Bank of The Manhattan Company funds the Erie Canal
+
+
+=== TOP 10 INVESTMENT BANKS IN THE WORLD (2023) ===
+
+1. JP Morgan Chase
+   - Market Cap: US$388.5 billion
+   - Net Income: US$37.68 billion
+   - Total Assets: US$3.87 trillion
+   - Total Equity: US$292.3 billion
+
+2. Bank of America Group
+   - Market Cap: US$348.4 billion
+   - Net Income: US$27.53 billion
+   - Total Assets: US$3.1 trillion
+   - Total Equity: US$273.2 billion
+
+3. Morgan Stanley
+   - Market Cap: US$298.7 billion
+   - Net Income: US$11.1 billion
+   - Total Assets: US$1.18 trillion
+   - Total Equity: US$101 billion
+
+4. Goldman Sachs
+5. Citigroup Inc.
+6. UBS
+7. Wells Fargo Securities
+8. Deutsche Bank
+9. HSBC Holdings
+10. Barclays
+
+Note: State-supported acquisition of Credit Suisse by UBS in March 2023
+quickly tranquilized nervous markets and clients.
+
+
+=== KEY INVESTMENT BANKING SERVICES ===
+
+SECURITY UNDERWRITING:
+- Best-known and often most profitable IB service
+- Purchase for resale of new stocks, bonds, and other instruments in money/capital markets
+  on behalf of clients raising new money
+- Initial Public Offerings (IPOs) — among most profitable underwriting services
+
+LEVERAGED BUYOUTS (LBOs):
+- Acquisition of company, usually by small group of investors
+- Typically funded by large amounts of debt
+
+HEDGE FUND BUSINESS:
+- Many investment banks recently jumped into this business
+
+Example client questions investment bankers help answer:
+- Should we raise new capital? How much, where, how?
+- Should we enter new markets at home/abroad? How?
+- Should we acquire/merge with other firms? Which? How? When?
+- Should we sell our company? What is it worth? How do we find the right buyer?
+
+
+=== INVESTMENT BANKING POST GRAMM-LEACH-BLILEY (1999) ===
+
+- GLB Act opened full range of IB services for adequately capitalized,
+  well-managed commercial banking firms
+- Research suggests IB revenue/profitability are positively (not highly) correlated with
+  commercial banking — significant product-line diversification effects possible
+- Not yet clear that benefits from this new service dimension have offset costs/risks
+
+Future:
+- IBs wrestling with what kind of firm to be — what mix achieves high, sustained profitability?
+- Some commercial bank-IB combinations show promise despite ongoing post-2007-2009 mortgage losses
+- Both IB and commercial banks under intense pressure to raise large new capital
+- Many observers anticipate more mergers
+- Future bank-IB combinations may not consistently turn out well
+- Likely outcome: greater government regulation
+
+
+=== SELLING INVESTMENT PRODUCTS TO CONSUMERS ===
+
+Why depositors moved funds OUT of bank deposits to investment products:
+1. LOW INTEREST RATES: minimal returns on traditional deposits
+2. INFLATION CONCERNS: rates often below inflation rate
+3. DESIRE FOR HIGHER RETURNS: greater potential, with greater risk
+4. DIVERSIFICATION: spreading risk across stocks, bonds, securities + deposits
+5. ACCESS TO INVESTMENT MARKETS: tech advancements, online platforms
+6. LONG-TERM GOALS: e.g., retirement planning needs growth-potential assets
+7. FINANCIAL ADVISOR GUIDANCE: advisors recommend tailored mix of investments
+
+
+=== MUTUAL FUND INVESTMENT PRODUCTS ===
+
+Definition:
+- One of the most popular investment products
+- Each share = pro rata claim to dividends/income generated by pool of stocks, bonds, securities
+- If liquidated, each investor receives portion of NAV (Net Asset Value) after liabilities paid,
+  based on shares held
+- Mature, well-established investment vehicle
+- Managed by Portfolio Managers
+- Pool capital from different investors → invest in various asset classes
+  (equities, bonds, money market instruments)
+- Holdings could cover dozens of securities
+
+Proprietary funds vs Non-proprietary funds.
+
+
+=== ADVANTAGES OF MUTUAL FUNDS ===
+
+1. EASE OF ACCESS:
+   After establishing investment goals and risk tolerance, retail investors can
+   open an account and choose suitable funds.
+
+2. LOWER ENTRY THRESHOLD:
+   Accessible to wide variety of investors. In addition to one-off subscription,
+   monthly subscription at small amount (e.g., HK$1,000) — optimal way to gain
+   global market exposure.
+
+3. LOWER CONCENTRATION RISK:
+   Generally invest in many securities. Individual investors can diversify globally
+   at relatively lower cost vs holding a single security.
+
+
+=== TRUST SERVICES AS A SOURCE OF FEE INCOME ===
+
+DEFINITIONS (HKMA Supervisory Policy Manual):
+
+"Trust" — an obligation imposed on a person to hold or control and administer assets
+for the benefit of others (beneficiaries) or for a specified purpose
+(e.g., charitable purpose, wills, estate planning).
+
+"Trust business" — provision of one or more of the following services, by way of business:
+a. Setting up a trust
+b. Acting as a trustee (or party performing trustee functions) for a trust
+c. Managing assets held on trust
+d. Administration services for a trust
+e. Eventual transfer of assets to beneficiaries
+
+
+=== WHAT IS A TRUST? ===
+- Created when a TRUST DEED (written document) signed by both Settlor and Trustee
+- Trust Deed sets out terms/conditions for assigning Trust Assets to Trustee
+- Trustee administers Trust Assets and distributes to Beneficiaries per Trust Deed
+- Reflects objectives and intentions laid down by Settlor
+
+
+=== TRUST SERVICES OVERVIEW ===
+
+- Management of customer property: securities, land, buildings, other assets
+- Among the OLDEST non-deposit services banks (and competitors) offer
+- Trust departments often generate large deposits (managing customer property)
+- Deposits placed by trust department must be FULLY SECURED
+
+Popular kinds of trusts:
+- Living trusts
+- Testamentary trusts
+- Irrevocable trusts
+- Charitable trusts
+- Indenture trusts
+
+Establishment of FIDUCIARY relationship is critical.
+
+
+=== HKMA CODE OF PRACTICE FOR TRUST BUSINESS ===
+
+Principle 1: Fairness, honesty and integrity
+Trustee should act honestly, fairly, and with integrity in conducting trust business.
+
+Principle 2: Due skill, care and diligence
+Act with due skill, care and diligence in interests of customers. Ensure entity and
+all relevant staff are fit and proper to perform their roles.
+
+Principle 3: Management and control of trust assets
+Exercise due care in understanding, managing, and controlling all trust assets in
+full conformity with fiduciary obligations.
+
+Principle 4: Corporate governance and internal controls
+Establish proper corporate governance structure; implement adequate internal controls
+and risk management systems.
+
+Principle 5: Compliance with legal and regulatory requirements and standards
+Comply with all relevant requirements applicable to trust business activities.
+
+Principle 6: Co-operation with regulators
+Deal with relevant regulators in an open and co-operative manner.
+
+
+=== SALES OF INSURANCE-RELATED PRODUCTS ===
+
+- Banks can use branches to sell insurance
+- Over 100 banks today sell their own insurance products in the US
+
+Types sold:
+- Life insurance policies
+- Property/casualty insurance policies
+
+Life insurance underwriters and property/casualty underwriters manage their respective risks.
+
+
+=== INSURANCE PRODUCT MIX (HSBC EXAMPLE) ===
+
+RETAIL BANKING:
+- Life Protection
+- Savings
+- Retirement Income
+- Medical & Critical Illness
+- Legacy Planning (e.g., Universal Life)
+- Child Education
+- Fire Insurance
+- Home Content Insurance
+- Licensed technical representative (TR) — both agent and broker — in bank can provide
+  regulated advice on insurance product or retirement solutions
+
+COMMERCIAL BANKING:
+- Group Medical Insurance
+- Liability Insurance:
+  - Directors and Officers Liability Insurance
+  - Public Liability Insurance
+  - Employees' Compensation Insurance
+  - Owner's Corporation Third Party Liability Insurance
+- Trade Credit Insurance
+- Marine Related Insurance
+- Universal Life Insurance
+- Fire Insurance
+
+
+=== INSURANCE AGENTS vs INSURANCE BROKERS ===
+
+| Aspect | Insurance Broker | Insurance Agent |
+|--------|------------------|-----------------|
+| Representation | Independent intermediary representing BUYER's interests; not tied to specific insurer | Works for an insurance company; represents INSURER's interests |
+| Product Range | Wide range from various insurers; broader selection | Limited to products of employing company |
+| Objective | Client-centric; finds best solutions; personalized advice | Company-centric; meets sales targets; promotes employer's policies |
+| Compensation | Commission from insurance company when policy placed; varies by insurer/policy | Salaried OR fixed commission from employer; performance-based incentives possible |
+| Licensing/Regulation | Subject to licensing/regulatory requirements; must disclose conflicts of interest | Subject to licensing; follow ethical/legal guidelines from employer |
+
+
+=== MANDATORY DISCLOSURES FOR DEPOSITORY INSTITUTIONS SELLING INSURANCE ===
+
+1. Insurance product or annuity is NOT a deposit or other obligation of depository institution
+2. Not insured by FDIC, any other US government agency, the institution itself, or affiliates
+3. May involve INVESTMENT RISK and possible loss of value
+4. US depository institutions cannot base granting loans on customer's purchase of insurance/annuity
+   from depository institution or affiliates, or customer's agreement not to obtain insurance
+   from unaffiliated entity
+
+These disclosures must be made BOTH ORALLY AND IN WRITING before completion of sale.
+
+
+=== ALLEGED BENEFITS OF FINANCIAL-SERVICES DIVERSIFICATION ===
+
+CONVERGENCE: when two or more different industry types merge with each other.
+
+Potential benefits:
+- Low correlation between cash flows/revenues from traditional vs non-traditional products
+- Revenue streams from different lines may move in different directions at different times
+- Combining industries/products may STABILIZE combined cash flows and profitability
+- Risk of failure may be reduced
+
+This is the PRODUCT-LINE DIVERSIFICATION EFFECT.
+
+
+=== DIVERSIFICATION EXAMPLE ===
+
+Banking firm adds insurance services to its existing menu:
+- Banking products: 12% average return
+- Insurance services: 20% average return
+- Both equally risky: 5% standard deviation each
+- Revenue mix: 80% banking, 20% insurance
+- Cash flow correlation: −0.50 (negatively correlated)
+
+Result: Offering both traditional and non-traditional services
+LOWERS the bank's standard deviation of overall return.
+
+
+=== ECONOMIES OF SCOPE ===
+
+Definition:
+A situation where joint costs of producing two or more services in ONE FIRM
+are LESS than combined cost of producing each separately.
+
+Example formula:
+If a single firm produces two services (S1 and S2) instead of only one,
+using the same resources, its cost of production (C) may be lower:
+  C(S1, S2) < C(S1) + C(S2)
+
+Result: Expanding services may lead to more intensive resource use,
+reducing overall costs and widening multiservice firm's profit margin.
+
+
+=== INFORMATION FLOWS AND CUSTOMER PRIVACY ===
+
+- Financial firms have become more like pure information-gathering, processing,
+  and dispersing businesses
+
+GRAMM-LEACH-BLILEY ACT of 1999:
+- Allowed financial-service companies to share customer information among
+  affiliated firms AND with independently owned third parties
+- BUT customers must not have expressly said "no" (or "opt out") to data distribution
+
+Protecting customer privacy became increasingly important.
+
+A financial firm's privacy policy must include key items and be sent to customers
+at least ONCE A YEAR.
+
+
+=== END OF LECTURE 12 ===
