@@ -1,0 +1,545 @@
+=== AF4322 LECTURE 10: CONSUMER LOANS, CREDIT CARDS, AND REAL ESTATE LENDING ===
+Source: Rose, P.S. and Hudgins, S.C. (2008) Bank Management & Financial Services, 7/e, McGraw Hill.
+Covers: Chapter 18
+
+KEY TOPICS:
+- Types of Loans for Individuals and Families
+- Unique Characteristics of Consumer Loans
+- Dodd-Frank, the Consumer Protection Bureau, and CARD Act
+- Evaluating a Consumer Loan Request
+- Credit Cards and Credit Scoring
+- Disclosure Rules and Discrimination
+- Consumer Loan Pricing and Refinancing
+- Macro-prudential Policies
+- SME Financing Guarantee Scheme
+
+
+=== INTRODUCTION ===
+- Consumer debt has become one of the fastest-growing forms of borrowing
+- Q2 2023: total US household debt reached US$17 Trillion; Credit Card Debt exceeded US$1 Trillion
+- Banks dominate household lending due to growing reliance on individuals/families
+  for chief source of funds (checkable and savings deposits)
+- Consumer credit is among the most profitable services a lender can offer
+- However, services directed at consumers can also be among the most COSTLY and RISKY
+
+
+=== TYPES OF LOANS GRANTED TO INDIVIDUALS AND FAMILIES ===
+
+Consumer loans classified by:
+- PURPOSE: what the borrowed funds will be used for
+- TYPE: whether borrower repays in installments or in one lump sum
+
+
+=== RESIDENTIAL MORTGAGE LOANS ===
+
+Definition:
+- Credit to finance home purchase or fund residential improvements
+- Long-term loan, typically 15-30 years
+- Secured by the property itself
+- May carry fixed or variable (floating) interest rate
+- Banks are leading residential mortgage lenders today
+
+Leading US Mortgage Lenders:
+- Wells Fargo: largest US bank, significant mortgage market presence
+- JPMorgan Chase: major US bank with substantial market share
+- Quicken Loans (Rocket Mortgage): well-known online lender, streamlined digital application
+- Bank of America: substantial residential lending presence
+- Citibank (Citigroup subsidiary): notable player
+
+Leading Hong Kong Mortgage Lenders:
+- HSBC Hong Kong: largest, most prominent bank
+- Bank of China (Hong Kong): major regional bank
+- Standard Chartered Bank (Hong Kong): residents and non-residents
+- Hang Seng Bank (HSBC subsidiary): competitive rates
+
+
+=== NON-RESIDENTIAL CONSUMER LOANS ===
+
+INSTALLMENT LOANS:
+- Short to medium-term, repayable in 2+ consecutive payments (monthly/quarterly)
+- Used for big-ticket items (automobiles, furniture, appliances) or debt consolidation
+
+NON-INSTALLMENT LOANS:
+- Short-term loans for immediate cash needs, repayable in lump sum
+- May be small amounts, including charge accounts requiring 30-day or less payment
+- May also be larger short-term loans (under 6 months) to wealthier individuals
+
+
+=== CREDIT CARD LOANS AND REVOLVING CREDIT ===
+
+One of the most popular forms of consumer credit today.
+
+Benefits to Consumers:
+- Convenience: easy way to make purchases
+- Access to Credit: can purchase even without sufficient cash
+- Rewards programs, cashback incentives, travel perks
+- Security: fraud protection and ability to dispute charges
+
+Concerns:
+- Customers were charged high fees but encouraged to make only low minimum payments
+- Resulted in NEGATIVE AMORTIZATION
+- Regulators warned lenders that federal examiners would look for excessive use
+  of fees and unreasonably liberal credit terms
+
+
+=== NEW CONSUMER REGULATIONS — DODD-FRANK, CARD ACT, AND CFPB ===
+
+CARD ACT (May 2009) — Credit Card Accountability, Responsibility, and Disclosure Act:
+- Restricted card issuers from raising APRs unless adequate written notice given
+- Customers must be told reasons why credit terms changed
+- Card companies required to post contracts on Internet for customers to "shop around"
+- Card holders must receive periodic billing statements at least 3 weeks before payments due
+- Expanded "box" must be included on each monthly billing statement showing:
+  - Amount of interest paid
+  - Consequences of paying minimum amount
+- Falls within Federal Reserve Board's Regulation Z
+
+DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT:
+- Named after Senator Chris Dodd and Congressman Barney Frank
+- Signed into law by President Obama in July 2010
+- Creates the CONSUMER FINANCIAL PROTECTION BUREAU (CFPB)
+- CFPB directed to write new rules on:
+  - Making consumer and credit card loans
+  - Warning consumers of damaging financial practices
+  - Promoting financial literacy
+  - Improving clarity/transparency of financial-service contracts
+- CFPB housed within Federal Reserve but operates independently with own budget
+- Expected to be controversial — must write hundreds of rules impacting consumer services
+
+
+=== CHARACTERISTICS OF CONSUMER LOANS ===
+
+- Lenders regard consumer loans as profitable credits with "STICKY" interest rates
+- Contract rates often don't change readily with market conditions (unlike business loans)
+- Consumer loans subject to significant interest rate risk
+- Priced so high that market rates and default rates would have to rise substantially
+  before consumer credits become unprofitable
+
+Why are interest rates so high on most consumer loans?
+- Most costly and risky to make per dollar of loanable funds committed
+- Consumer loans tend to be cyclically sensitive
+- Household borrowings appear relatively interest INELASTIC
+  - Borrowers more concerned about size of monthly payment than rate charged
+- Education and income levels materially influence consumers' use of credit
+
+
+=== EVALUATING A CONSUMER LOAN APPLICATION ===
+
+Character and Purpose:
+- Key factors: character of borrower and ability to pay
+- Lenders nearly always check with credit bureaus for credit history
+- For borrowers without credit record or with poor history, COSIGNER may be requested
+- Many lenders regard cosigner as primarily a psychological device to encourage repayment
+
+Other Important Items For Lenders:
+- Income Levels
+- Deposit Balances
+- Employment and Residential Stability
+- Pyramiding of Debt
+
+How to Qualify for a Consumer Loan:
+- Home ownership or ownership of any form of real property
+- Maintain strong deposit balances
+- Most important: TRUTHFULLY answer all of the loan officer's questions
+
+
+=== CREDIT SCORING ===
+
+Basic Theory:
+Lenders and statisticians can identify financial, economic, and motivational factors
+that separate good loans from bad loans.
+
+Underlying Assumption:
+Same factors that separated good from bad loans in the past will separate them
+in the future, within an acceptable risk of error.
+
+Effect: Automated credit-determining system removes personal judgment from lending.
+
+
+=== THE FICO SYSTEM ===
+
+- Developed by Fair Isaac Corporation (FICO)
+- Most famous credit-scoring system in use
+- Scores range 300-850; higher = less credit risk
+
+FICO score based on five factors (most to least important):
+1. Borrower's payment history
+2. Amount of money owed
+3. Length of borrower's credit history
+4. Nature of new credit being requested
+5. Types of credit borrower has already used
+
+
+=== LAWS AND REGULATIONS APPLYING TO CONSUMER LOANS ===
+
+Two categories:
+
+1. DISCLOSURE RULES:
+   Mandate telling consumer about cost and other terms of loan/lease agreement
+   - Truth-in-Lending Act
+   - Fair Credit Reporting Act
+   - Fair Credit Billing Act
+   - Fair Debt Collection Practices Act
+
+2. ANTI-DISCRIMINATION LAWS:
+   Prevent categorizing customers by age, sex, race, etc.
+   - Equal Credit Opportunity Act
+   - Community Reinvestment Act
+
+
+=== PREDATORY LENDING AND SUBPRIME ===
+
+Predatory Lending: abusive practice where lenders require excessive fees
+plus unnecessary and excessive loan insurance.
+
+Subprime Loans: granting loans to borrowers with below-average credit scores.
+
+Home Ownership and Equity Protection Act (1994):
+Passed to protect home buyers from loan agreements they could not afford.
+Subprime lending is difficult to regulate.
+
+
+=== REAL ESTATE LOANS ===
+
+- Depository institutions, finance, and insurance companies make real estate loans
+  to fund acquisition of real property (homes, apartments, shopping centers, offices, land)
+- One of the most rapidly growing areas of lending over past decade
+- Different from other loans
+- Can be among the riskiest forms of credit
+
+
+=== DIFFERENCES BETWEEN REAL ESTATE LOANS AND OTHER LOANS ===
+
+- Average size much larger than other loans
+- Mortgage loans tend to have longer maturities
+  - 15-30 year maturities typical for single-family homes
+- Condition and value of subject property are nearly as important as borrower's income
+  - Appraisals critical to loan decision; must meet industry standards and government regulations
+
+
+=== FACTORS IN EVALUATING REAL ESTATE LOAN APPLICATIONS ===
+
+- DOWN PAYMENT relative to purchase price:
+  Higher loan-to-purchase price ratio → less incentive to honor loan terms
+- Lenders may give lower rate for pledge to use other financial services
+- Other aspects:
+  - Amount and stability of borrower's income
+  - Available savings and source of down payment
+  - Track record in caring for/managing property
+  - Outlook for real estate sales in local market (in case of repossession)
+  - Outlook for market interest rates
+
+
+=== HOME EQUITY LENDING ===
+
+- Homeowners can borrow the equity in their homes
+- Equity = home's estimated market value minus the mortgage loans against it
+
+Two main types:
+1. Traditional Home Equity Loan
+2. Lines of Credit Against a Home's Borrowing Base
+
+
+=== CONTROVERSIAL HOME MORTGAGE LOANS — INTEREST-ONLY AND ARMS ===
+
+During the housing boom:
+- Lenders made extravagantly priced homes "affordable" via more readily available mortgages
+- Adjustable-Rate Mortgages (ARMs) signed up during historic-low rate period
+
+Interest-Only ARM (Option ARM):
+- Home buyer pays only interest on home loan for initial period
+- After initial period, must pay both principal and interest
+- Looked like predatory lending against lower-income families
+- In rising rate environment, many ARM borrowers faced higher payments
+
+Post-Crisis Reforms:
+- Lenders must disclose more about actual loan terms
+- Cannot represent loan terms as "fixed" when those terms can change
+- Dodd-Frank Wall Street Reform and Consumer Protection Act resulted in tough new rules:
+  - Lenders pooling/securitizing mortgages they create are responsible for at least
+    5 percent of attached credit risk (qualified mortgages exempt)
+  - Previously lenders "washed their hands" of any responsibility
+
+
+=== REVISED FEDERAL BANKRUPTCY CODE ===
+
+Bankruptcy Abuse Prevention and Consumer Protection Act (April 2005, Bush):
+- Made filing for bankruptcy more expensive and time-consuming
+- Applicants must complete a certified credit counseling program before filing
+- Intended to discourage consumers from taking on too much debt
+
+Means Test (determines Chapter 7 vs Chapter 13):
+- Average of debtor's past six months of gross income
+- Determines if debtor has enough income to pay some debt
+
+Chapter 7 (previous default):
+- Wiped out all or most debts; allowed fresh start
+
+Chapter 13 (more applicants must use under new code):
+- Stipulates that at least some debts must be repaid
+
+
+=== PRICING CONSUMER LOANS — INTEREST RATE METHODS ===
+
+Cost-Plus Model: foundation for non-residential consumer loans
+
+ANNUAL PERCENTAGE RATE (APR):
+- Annualized internal rate of return that equates expected total payments with loan amount
+- Takes into account how fast loan is repaid and how much credit customer has during life of loan
+- Under Truth-in-Lending Act, lenders must give borrower an APR statement
+- Allows borrowers to compare loan rates across lenders
+
+APR in Hong Kong:
+- Authorized Institutions (AIs) should use APRs for banking products to enable easier comparisons
+- For products with commonly quoted floating rates (deposits, overdrafts, mortgages),
+  APRs not mandatory but all related fees should be displayed
+- AIs must address customer APR inquiries and share product APRs (per industry guidelines)
+- AIs exempt from Money Lenders Ordinance (Cap. 163) interest rate restrictions
+  (48% p.a. effective 30 December 2022)
+- Should not charge extremely high interest; if APRs exceed lawful limits, AIs must justify
+- Fees on defaulting loans must be reasonable
+
+SIMPLE INTEREST RATE:
+- Adjusts for length of time borrower actually has use of credit
+- If customer paying off gradually, declining loan balance is used to determine interest
+
+DISCOUNT RATE METHOD:
+- Customer pays interest UP FRONT
+- Interest deducted first; customer receives loan amount LESS interest owed
+
+ADD-ON LOAN RATE METHOD:
+- Oldest loan rate calculation method
+- Interest added to principal before calculating installment payments
+- Add-on rate equals simple interest rate ONLY if loan paid off in single lump sum at end
+
+
+=== RULE OF 78s (Sum-Of-Digits Method) ===
+
+Definition:
+A rule of thumb to determine how much interest income a lender is entitled to accrue
+at any point in time from a loan being paid in monthly installments.
+
+Important when borrower wants to pay off a loan early.
+
+Origin: sum of digits 1 through 12 = 78.
+
+For 12-month loan: total interest divided into 78 portions
+- Month 1 = 12/78 of interest
+- Month 2 = 11/78
+- Month 3 = 10/78
+- ...
+- Month 12 = 1/78
+
+EXAMPLE (12-month loan, HK$12,000, monthly flat rate 0.296%, 1% handling fee p.a.):
+- Each installment: HK$1,035.52
+- Total Interest = Loan principal × monthly flat rate × tenor (months)
+                 = HK$12,000 × 0.296% × 12 = HK$426.24
+- 1st installment interest: HK$426.24 × 12/78 = HK$65.58
+- 2nd installment interest: HK$426.24 × 11/78 = HK$60.11
+- 3rd installment interest: HK$426.24 × 10/78 = HK$54.65
+- ...
+- Last installment interest: HK$426.24 × 1/78 = HK$5.46
+
+Apportionment of principal/interest = total installment minus interest portion.
+
+Early Repayment Variables:
+- A: Sum of principal and interest payable for early full repayment
+- L: Total loan amount
+- I: Total interest for entire loan period if no early repayment
+- R: Total principal and interest already repaid
+- M: Number of remaining installments
+- T: Total number of installments
+
+
+=== INTEREST RATES ON HOME MORTGAGE LOANS ===
+
+- Since 1930s: most loans were FIXED-RATE MORTGAGES (FRMs)
+- 1981: Adjustable-Rate Mortgages (ARMs) authorized for federally chartered depository institutions
+- ARMs created in response to inflation and volatile interest rate pressure
+- Whether FRM or ARM, loan officer must determine initial loan rate and monthly payments
+
+
+=== MORTGAGE POINTS ===
+
+- Home mortgage agreements often require borrowers to pay an additional UP-FRONT charge called POINTS
+- Points = prepaid interest; may be deductible as home mortgage interest
+- Example: $100,000 home loan with 2 points up-front charge
+
+
+=== MACRO-PRUDENTIAL POLICIES ===
+
+Background:
+- Pre-global financial crisis: policymakers used soft tools (communication, market discipline)
+  to influence behavior and ensure stability
+- Post-crisis: HARD policy measures required for systemic risks
+- Strong macro-financial linkages mean systemic banking crises entail significant economic costs
+- Economic activity reduces → deeper banking crisis → borrowers' financial condition deteriorates
+- Risk of systemic crisis = SYSTEMIC RISK
+
+Purposes:
+1. Complement regulatory oversight of individual firms; build resilience (initially in banking)
+2. Dampen volatility of financial cycle and reduce destabilizing imbalances
+
+
+=== MACRO-PRUDENTIAL TOOLS ===
+
+1. CAPITAL TOOLS:
+   - Counter cyclical capital Buffer (CCB):
+     • Increases resilience by building buffers when credit growth is high
+     • May slow credit growth with higher cost of funds
+     • Lowered during stressed periods
+   - Other Systemically Important Institutions (O-SII) buffer:
+     • Reduces probability of default of these institutions
+   - Systemic risk buffer:
+     • Prevents/mitigates long-term non-cyclical systemic risk not covered by other buffers
+     • Can limit concentration of exposures and excessive leverage
+   - Leverage Ratio (LR):
+     • Limits leverage; backstop to risk-based capital buffers
+     • Safeguards against errors in risk-based requirements
+     • Research: LR outperformed risk-weighted ratios in predicting failures during crisis (IMF 2009)
+   - Sectoral Capital Requirement (SCR):
+     • Increases resilience by building buffers to losses in real estate
+     • Targeted measure
+     • Modest tightening in credit conditions (Bank of England 2014)
+
+2. LIQUIDITY TOOLS:
+   - Time-varying Liquidity Coverage Ratio (LCR) / Net Stable Funding Ratio (NSFR):
+     • Mitigates effects from market illiquidity, excessive maturity/liquidity mismatch
+     • Builds on existing micro-prudential requirement
+     • New Zealand introduced core funding ratio in 2010
+   - Loan-to-Deposit Ratio (LDR):
+     • Reduces reliance on short-term wholesale funding
+     • Constrains credit growth during upturn
+     • May contribute to deposit competition
+
+3. CREDIT-RELATED TOOLS:
+   - Loan-to-Value (LTV):
+     • Reduces sensitivity to property price movements
+     • Directly targeted at real estate
+     • Directly affects credit cycle
+   - Debt-to-Income (DTI):
+     • Increases household/bank resilience through lower probability of default
+     • More binding than LTVs (incomes grow slower than house prices)
+     • IMF (2013): LTV/LTIs slow mortgage growth, reduce housing bubble potential, reduce downturn severity
+     • Significant Asian experience with these measures
+
+4. OTHER BALANCE SHEET TOOLS:
+   - Exposure Limit:
+     • Reduces systemic risk from concentration/interconnectedness
+     • Reduces contagion risk
+     • ECB (2013): contagion losses decline when 25% large exposure limit lowered
+   - Disclosure:
+     • Increases market discipline
+     • Reduces market uncertainty and information contagion probability
+     • US/EU stress tests improved market conditions
+   - Pillar 2:
+     • Bank's Pillar 2 requirement determined as part of Supervisory Review and Evaluation Process (SREP)
+     • Flexible tool for wide range of systemic risks
+     • Same economic impact as comparable macro-prudential instruments
+
+
+=== LINKING TOOLS TO INTERMEDIATE OBJECTIVES ===
+
+| Tools | Intermediate Objectives |
+|-------|------------------------|
+| Capital Tools (Cyclical/Structural Buffers) | Cyclical: Excessive credit growth and leverage |
+| Liquidity Tools | Cyclical: Excessive maturity mismatch and market illiquidity |
+| Credit-related Tools | Structural: Exposure concentration |
+| Other Tools | Structural: Misaligned incentives |
+
+(Source: IMF 2013, ESRB 2013)
+
+
+=== INTERNATIONAL EXPERIENCE WITH MACRO-PRUDENTIAL POLICY ===
+
+Hong Kong:
+- LTV cap (since 1990s), differentiated by property and borrower type, adjusted counter-cyclically
+- Used with mortgage insurance; DTI cap also used
+- Risk addressed: high bank exposure to residential mortgages, lack of monetary policy control,
+  high and volatile property price growth
+- Effectiveness: bank losses remained low during Asian crisis after severe property value falls
+  (BOE 2011); delinquency ratio of insured portfolio remains low
+
+UK:
+- Proportionate LTI cap at 4.5 times
+- Risk addressed: insurance against unexpected housing market momentum
+- Implemented in late 2014
+
+Canada:
+- 80% LTV cap with mandatory mortgage insurance
+- Capped 25-year loan term
+- Maximum total debt service ratio of 44%
+- Time varying — Canada took four macro-prudential measures since 2008
+- Risk addressed: domestic mortgage market, house price and credit growth
+- IMF (2014a): moderation in house prices and mortgage credit since 2010
+  partly due to policy measures; mortgage arrears rate in insurance portfolio remains low
+
+Australia:
+- Increase in risk weights for self-verified mortgages and non-prime home loans (2004)
+- Risk addressed: strong house price growth with higher-risk lending
+- Effect: helped change bank lending behavior and limit market growth
+
+(Source: Grace, T., Hallissey, N., & Woods, M. (2015). The Instruments of macro-prudential policy.
+Quarterly Bulletin, 1, 91-95.)
+
+
+=== PRUDENTIAL MEASURES FOR MORTGAGE LOANS ===
+
+Definition:
+Regulatory measures by governments/financial authorities to ensure housing market and
+financial system stability and manage mortgage lending risks.
+
+Aims: prevent excessive borrowing, promote responsible lending, protect borrowers/lenders.
+
+SINGAPORE:
+- Loan-to-Value (LTV) Limits — set by MAS; stricter for second/subsequent purchases
+- Total Debt Servicing Ratio (TDSR) — total monthly debt obligations not to exceed % of income
+- Additional Buyer's Stamp Duty (ABSD) — tax on property purchases (foreign/multiple)
+  to cool market and discourage speculation
+- Interest Rate Floors — some banks ensure borrowers can service mortgages even when rates rise
+
+HONG KONG:
+- HKMA oversees prudential measures
+- LTV and Debt Servicing Ratio Restrictions to limit excessive borrowing
+- Stress Testing — banks conduct on borrowers to assess repayment ability under adverse conditions
+  including rising rates
+
+
+=== SME FINANCING GUARANTEE SCHEME (SFGS) ===
+
+Background:
+To address SME capital-flow challenges, the application period for the
+80% and 90% Guarantee Products under SFGS extended for two years to end of March 2026.
+
+SPECIAL 100% LOAN GUARANTEE:
+- HKMC Insurance Limited (HKMCI), wholly-owned subsidiary of HK Mortgage Corporation Limited
+- Special 100% Loan Guarantee under SFGS started receiving applications from 20 April 2020
+- Anti-epidemic Fund enhanced this guarantee due to prolonged COVID-19 impact
+- Applicable to all sectors; loans fully guaranteed by Government
+
+Eligibility:
+- Operating for at least 3 months as at end-December 2019
+- Suffered at least 30% decline in sales turnover in any month since February 2020
+  vs monthly average of any quarter in 2019
+
+Terms:
+- Interest rate: Prime Rate minus 2.5% per annum (current ~2.75%)
+- All guarantee fees waived
+- Maximum loan per enterprise: total of employee wages and rents for 6 months OR HK$2 million,
+  whichever is LOWER
+- Optional principal moratorium for first 6 months to alleviate immediate repayment burden
+
+
+=== EFFECTIVENESS OF SME FINANCING GUARANTEE ===
+
+Impact of SFGS on Loans and Creditworthiness:
+- Significant impact on loan amounts
+- Other key determinants: collateral arrangements, reporting bank, economic sector, loan purpose
+- Varying credit uplift across industries — particularly beneficial for vulnerable sectors
+  or loans for uncertain purposes during pandemic
+- Enhanced credit access even for borrowers with significant collateral
+- Significantly REDUCES probability of loan downgrades by 6 percentage points
+- Provides evidence of stabilizing effect on perceived borrower creditworthiness
+
+
+=== END OF LECTURE 10 ===
